@@ -6,6 +6,16 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
 
+        <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>minecraft指令</title>
+            <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+            
+
+
 
         <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
 
@@ -481,6 +491,7 @@ LINK</description>
             <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
             <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
             
+
             <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
             <description>指令 /give
 使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
@@ -604,10 +615,22 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
 <p>/xp 增加或减少经验。</p>
 <p><a href="http://www.minecraftxz.com/zhilingdaquan/">Link</a></p>
 
+
+
+
 ]]></content>
         </item>
         
         <item>
+
+            <title>我的世界红石教程</title>
+            <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</link>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</guid>
+            <description>博主正在努力&amp;hellip;&amp;hellip; Link</description>
+            <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
+
 
             <title>Sapien faucibus</title>
             <link>https://minspider.github.io/timeline/sapien_faucibus/</link>
@@ -628,12 +651,19 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
             <description>博主正在努力&amp;hellip;&amp;hellip; Link</description>
             <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
 
+
 <p><a href="https://github.com/gohugoio/hugo/">Link</a></p>
 ]]></content>
         </item>
         
 
         <item>
+
+            <title>生物</title>
+            <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
+            <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+            
+
 
             <title>Amet Mauris</title>
             <link>https://minspider.github.io/timeline/amet_mauris/</link>
@@ -650,6 +680,7 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
             <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
             <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
             
+
             <guid>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</guid>
             <description>生物百科 僵尸
 僵尸（Zombie），与玩家形态相近。在1.4版本增加了与村民相似的僵尸&amp;ndash;僵尸村民。 [5] 僵尸是一种常见的攻击型亡灵生物，通常生成在主世界的亮度等级小于等于7的可刷怪方块上，当玩家或者村民进入它们的攻击范围时，它们就会向玩家或村民前进并抬起手试图接触以进行攻击。 僵尸外形为一个玩家，但是头部除了空洞的眼窝之外，将对比度、彩度和色相被经过调整成绿色。一般僵尸的手会举起来。僵尸会穿着和默认玩家（Steve）一模一样的服装，有时会因为误认玩家为僵尸而遭到攻击。僵尸的身高为1.9米，因此可以行走于2格高的洞穴和穿过门被破坏后的门框。 僵尸常生成于夜晚、洞穴、森林里等阴暗及光照不足的地方，一般会以2到6只成群出现，会向玩家前进并试图接触以进行攻击，并会拾取掉落到地面的物品，若捡到武器则会增强其攻击能力,捡到头盔则不会在白天燃烧。 当僵尸泡在水里超过45秒，它会变成溺尸并掉落身上的所有装备。不同于其他的敌对生物，僵尸有更远的40格察觉范围。玩家可以装备僵尸头颅以降低僵尸的察觉范围到20格。‌‌[仅Java版]
@@ -1064,10 +1095,19 @@ Notch在2011年4月25日提到，他可能会加入猪人（Pigman），并作�
 人类（Human/Monster）是我的世界（早期版本）中的敌对生物。和主角史蒂夫的材质是一样的，就是跳跃力比主视角的史蒂夫高（一层）。
 <a href="https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%80%AA%E7%89%A9%E5%88%97%E8%A1%A8/15418866?fr=aladdin">LINK</a></p>
 
+
+
+
 ]]></content>
         </item>
         
         <item>
+
+            <title>方块</title>
+            <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
+            <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+            
+
 
             <title>Getting Started</title>
             <link>https://minspider.github.io/timeline/lorem_ipsum/</link>
@@ -1083,6 +1123,7 @@ Notch在2011年4月25日提到，他可能会加入猪人（Pigman），并作�
             <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
             <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
             
+
             <guid>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</guid>
             <description>简介 方块是Minecraft里最基本的组成单位。
 作用 固体方块和液体方块一起构成游戏内的环境，并能以各种各样的方式被收集和利用。一些方块，如泥土和砂岩是不透明的方块，然而其他方块，如玻璃和冰，是透明的或半透明的。 一些方块，如火把和荧石，能发出光亮。它们的亮度各不相同；参见该亮度值表获取更多信息。大多数不透明方块会完全挡光，但透明方块要么对光亮没有影响，要么只微弱地挡光。 几乎所有方块都会无视重力，但不包括 沙子、红沙、沙砾、铁砧、龙蛋、混凝土粉末，还有在携带版中的雪。
@@ -1101,6 +1142,9 @@ LINK</description>
 <h2 id="材质">材质</h2>
 <p>方块表面的材质都是16×16像素的。大多数方块默认为一立方米大小，但它们能使用模型或材质包来改变。大多数方块都有静态的材质，但是水、熔岩、下界传送门、末地传送门、末地折跃门、火、海晶灯、命令方块、海晶石、和岩浆块有动画效果。通过使用材质包，玩家能够改变方块的材质和分辨率，包括决定材质是否为动态。材质包也能够使用模型来改变方块的形状或使方块等比例缩放，不过二次方长度的尺寸通常效果比较好。</p>
 <p><a href="https://jingyan.baidu.com/article/456c463b284b600a58314419.html">LINK</a></p>
+
+
+
 
 ]]></content>
         </item>
