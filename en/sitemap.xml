@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< Updated upstream
+
+
+
+    <loc>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+
     <loc>https://minspider.github.io/timeline/lorem_ipsum_dolor/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://minspider.github.io/timeline/sapien_faucibus/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://minspider.github.io/timeline/amet_mauris/</loc>
-    <lastmod>2019-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://minspider.github.io/timeline/lorem_ipsum/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://minspider.github.io/</loc>
+
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-=======
+
     <loc>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,7 +36,10 @@
   </url><url>
     <loc>https://minspider.github.io/</loc>
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
->>>>>>> Stashed changes
+
+
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -45,11 +52,15 @@
                 />
   </url><url>
     <loc>https://minspider.github.io/timeline/</loc>
-<<<<<<< Updated upstream
+
+
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-=======
+
     <lastmod>2021-08-31T00:00:00+00:00</lastmod>
->>>>>>> Stashed changes
+
+
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+
   </url><url>
     <loc>https://minspider.github.io/categories/</loc>
     <xhtml:link
