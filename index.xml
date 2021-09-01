@@ -7,6 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
 
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://minspider.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>壁纸</title>
+      <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%A3%81%E7%BA%B8/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%A3%81%E7%BA%B8/</guid>
+      <description>夏至蝉鸣 江晚小居 满碎金光 水光倒影 逃离地球 </description>
+    </item>
+    
+    <item>
+      <title>minecraft指令</title>
+      <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      
+
+
     <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://minspider.github.io/index.xml" rel="self" type="application/rss+xml" />
 
 
@@ -172,6 +189,7 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
       <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       
+
       <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
       <description>指令 /give
 使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
@@ -266,12 +284,18 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
 
+
+
+
       <guid>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</guid>
       <description>简介 方块是Minecraft里最基本的组成单位。
 作用 固体方块和液体方块一起构成游戏内的环境，并能以各种各样的方式被收集和利用。一些方块，如泥土和砂岩是不透明的方块，然而其他方块，如玻璃和冰，是透明的或半透明的。 一些方块，如火把和荧石，能发出光亮。它们的亮度各不相同；参见该亮度值表获取更多信息。大多数不透明方块会完全挡光，但透明方块要么对光亮没有影响，要么只微弱地挡光。 几乎所有方块都会无视重力，但不包括 沙子、红沙、沙砾、铁砧、龙蛋、混凝土粉末，还有在携带版中的雪。
 方块高度 大多数固体方块有 1 米高，但某些方块（例如台阶和楼梯）有不标准的方块高度。 如果方块之间的落差小于 0.6 (3\5)，玩家无须跳跃便可以走过这个高度差。
 材质 方块表面的材质都是16×16像素的。大多数方块默认为一立方米大小，但它们能使用模型或材质包来改变。大多数方块都有静态的材质，但是水、熔岩、下界传送门、末地传送门、末地折跃门、火、海晶灯、命令方块、海晶石、和岩浆块有动画效果。通过使用材质包，玩家能够改变方块的材质和分辨率，包括决定材质是否为动态。材质包也能够使用模型来改变方块的形状或使方块等比例缩放，不过二次方长度的尺寸通常效果比较好。
 LINK</description>
+
+
+
 
 
 

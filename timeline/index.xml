@@ -6,6 +6,28 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
 
+        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>壁纸</title>
+            <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%A3%81%E7%BA%B8/</link>
+            <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%A3%81%E7%BA%B8/</guid>
+            <description>夏至蝉鸣 江晚小居 满碎金光 水光倒影 逃离地球 </description>
+            <content type="html"><![CDATA[<h2 id="夏至蝉鸣">夏至蝉鸣</h2>
+<p><img src="https://img1.baidu.com/it/u=2787675908,958656503&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
+<h2 id="江晚小居">江晚小居</h2>
+<p><img src="https://img2.baidu.com/it/u=1419219184,4112066768&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
+<h2 id="满碎金光">满碎金光</h2>
+<p><img src="https://img1.baidu.com/it/u=2516317969,1983973354&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
+<h2 id="水光倒影">水光倒影</h2>
+<p><img src="https://img0.baidu.com/it/u=4089268013,2742621746&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
+<h2 id="逃离地球">逃离地球</h2>
+<p><img src="https://img1.baidu.com/it/u=3104957691,3758619350&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
+
+
         <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
         
@@ -618,6 +640,138 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
 
 
 
+
+]]></content>
+        </item>
+        
+        <item>
+
+            <title>minecraft指令</title>
+            <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
+            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
+            <description>指令 /give
+使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
+/gamerule mobGriefing false
+作用：保护地形，防止苦力怕炸坑
+/weather 改变天气
+clear - 将天气设为晴天。
+rain - 将天气设为雨天(寒冷的生物群系会下雪)。
+thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
+/difficulty
+改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)
+/tp
+使用方法：/tp x y z 作用：传送位置
+/gamemode
+使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。
+/gamerule keepinventory true
+死亡不掉落
+/kill
+作用：不输入名字为自杀，输入其他人名字杀死其他人
+/locate
+作用快速定位结构
+▍中国版指令(基岩版本1.12.0)
+我的世界指令大全(基岩版1.12.0)
+/?/help的替代命令，提供命令使用帮助
+/ability赋予或剥夺玩家的能力。
+/clear从玩家物品栏中删除物品。
+/clone将特定区域的方块复制到另一处。
+/connect/wsserver的替代命令，连接至WebSocket服务器。
+/deop撤销玩家的管理员权限。
+/difficulty设置难度等级。
+/effect添加或移除状态效果。
+/enchant附魔玩家的物品。
+/execute执行另一命令。
+/experience给予玩家经验。
+/fill将某个区域填满特定方块。
+/function运行一个函数。
+/gamemode更改玩家的游戏模式。
+/gamerule更改或查询游戏规则值。
+/give给予玩家物品。
+/help提供命令使用帮助。
+/kill杀死实体(玩家、生物、物品等)。
+/list列出服务器中的玩家。
+/locate显示最近给定结构的坐标。</description>
+            <content type="html"><![CDATA[<h2 id="指令">指令</h2>
+<p>/give</p>
+<p>使用方法：give 名称 物品ID 数量 作用：给予玩家物品。</p>
+<p>/gamerule mobGriefing false</p>
+<p>作用：保护地形，防止苦力怕炸坑</p>
+<p>/weather 改变天气</p>
+<p>clear - 将天气设为晴天。</p>
+<p>rain - 将天气设为雨天(寒冷的生物群系会下雪)。</p>
+<p>thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。</p>
+<p>/difficulty</p>
+<p>改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)</p>
+<p>/tp</p>
+<p>使用方法：/tp x y z 作用：传送位置</p>
+<p>/gamemode</p>
+<p>使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。</p>
+<p>/gamerule keepinventory true</p>
+<p>死亡不掉落</p>
+<p>/kill</p>
+<p>作用：不输入名字为自杀，输入其他人名字杀死其他人</p>
+<p>/locate</p>
+<p>作用快速定位结构</p>
+<p>▍中国版指令(基岩版本1.12.0)</p>
+<p>我的世界指令大全(基岩版1.12.0)</p>
+<p>/?/help的替代命令，提供命令使用帮助</p>
+<p>/ability赋予或剥夺玩家的能力。</p>
+<p>/clear从玩家物品栏中删除物品。</p>
+<p>/clone将特定区域的方块复制到另一处。</p>
+<p>/connect/wsserver的替代命令，连接至WebSocket服务器。</p>
+<p>/deop撤销玩家的管理员权限。</p>
+<p>/difficulty设置难度等级。</p>
+<p>/effect添加或移除状态效果。</p>
+<p>/enchant附魔玩家的物品。</p>
+<p>/execute执行另一命令。</p>
+<p>/experience给予玩家经验。</p>
+<p>/fill将某个区域填满特定方块。</p>
+<p>/function运行一个函数。</p>
+<p>/gamemode更改玩家的游戏模式。</p>
+<p>/gamerule更改或查询游戏规则值。</p>
+<p>/give给予玩家物品。</p>
+<p>/help提供命令使用帮助。</p>
+<p>/kill杀死实体(玩家、生物、物品等)。</p>
+<p>/list列出服务器中的玩家。</p>
+<p>/locate显示最近给定结构的坐标。</p>
+<p>/me显示一条关于自己的信息。</p>
+<p>/mixerMixer交互性控制。</p>
+<p>/mobevent控制或查询允许运行的生物事件。</p>
+<p>/msg/tell的替代命令，向另一玩家发送私信。</p>
+<p>/op授予玩家管理员权限。</p>
+<p>/particle创建颗粒。</p>
+<p>/playsound播放音效。</p>
+<p>/reload从硬盘中重新加载战利品表、进度和函数。</p>
+<p>/replaceitem替换物品栏中的物品。</p>
+<p>/resupply立即补给村庄新经济供需体系。</p>
+<p>/save准备备份，查询其状态或恢复。</p>
+<p>/say向多个玩家发送消息。</p>
+<p>/scoreboard管理记分板目标、玩家、队伍与标签。</p>
+<p>/setblock将方块替换为其他方块。</p>
+<p>/setmaxplayers设置可加入游戏的玩家数量上限。</p>
+<p>/setworldspawn设置世界出生点。</p>
+<p>/spawnpoint为玩家设置出生点。</p>
+<p>/spreadplayers将实体传送到随机位置。</p>
+<p>/stopsound 停止音效。</p>
+<p>/summon 生成实体。</p>
+<p>/tag 修改玩家或实体的标签。</p>
+<p>/teleport /tp的替代命令，传送实体。</p>
+<p>/tell 向另一玩家发送私信。</p>
+<p>/tellraw向玩家显示JSON消息。</p>
+<p>/testfor 统计符合给定条件的实体。</p>
+<p>/testforblock测定某方块是否在某位置。</p>
+<p>/testforblocks 测定两个区域中的方块是否相同。</p>
+<p>/time 更改或查询游戏中的世界时间。</p>
+<p>/title 管理屏幕上的标题。</p>
+<p>/toggledownfall 切换天气。</p>
+<p>/tp 传送实体。</p>
+<p>/w /tell的替代命令，向另一玩家发送私信。</p>
+<p>/weather设置天气。</p>
+<p>/wsserver 连接至WebSocket服务器。</p>
+<p>/xp 增加或减少经验。</p>
+<p><a href="http://www.minecraftxz.com/zhilingdaquan/">Link</a></p>
 ]]></content>
         </item>
         
@@ -643,6 +797,7 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
 <p>Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Tristique nulla aliquet enim tortor at auctor urna nunc id. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Ultrices tincidunt arcu non sodales neque. Malesuada fames ac turpis egestas integer eget aliquet. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Molestie at elementum eu facilisis sed odio morbi quis commodo. Risus in hendrerit gravida rutrum quisque. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Leo vel orci porta non pulvinar neque laoreet suspendisse. Condimentum lacinia quis vel eros donec. Mi bibendum neque egestas congue quisque egestas diam in arcu. Ultricies integer quis auctor elit sed. Gravida dictum fusce ut placerat. Magna fermentum iaculis eu non diam phasellus vestibulum lorem.</p>
 <p>Sapien faucibus et molestie ac feugiat sed. Varius sit amet mattis vulputate enim nulla. Risus ultricies tristique nulla aliquet enim tortor at. Lobortis elementum nibh tellus molestie nunc non. Nisl nisi scelerisque eu ultrices vitae auctor eu. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Sit amet justo donec enim diam. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Donec ultrices tincidunt arcu non. Magna ac placerat vestibulum lectus mauris. Eget nunc lobortis mattis aliquam faucibus. Tristique nulla aliquet enim tortor at auctor.</p>
 
+
             <title>我的世界红石教程</title>
             <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</link>
             <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
@@ -652,12 +807,21 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
             <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
 
 
+
+
+
 <p><a href="https://github.com/gohugoio/hugo/">Link</a></p>
 ]]></content>
         </item>
         
 
         <item>
+
+            <title>生物</title>
+            <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
+            <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+            
+
 
             <title>生物</title>
             <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
@@ -680,6 +844,7 @@ thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
             <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
             <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
             
+
 
             <guid>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</guid>
             <description>生物百科 僵尸
@@ -1098,10 +1263,19 @@ Notch在2011年4月25日提到，他可能会加入猪人（Pigman），并作�
 
 
 
+
+
+
 ]]></content>
         </item>
         
         <item>
+
+            <title>方块</title>
+            <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
+            <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+            
+
 
             <title>方块</title>
             <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
@@ -1124,6 +1298,7 @@ Notch在2011年4月25日提到，他可能会加入猪人（Pigman），并作�
             <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
             
 
+
             <guid>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</guid>
             <description>简介 方块是Minecraft里最基本的组成单位。
 作用 固体方块和液体方块一起构成游戏内的环境，并能以各种各样的方式被收集和利用。一些方块，如泥土和砂岩是不透明的方块，然而其他方块，如玻璃和冰，是透明的或半透明的。 一些方块，如火把和荧石，能发出光亮。它们的亮度各不相同；参见该亮度值表获取更多信息。大多数不透明方块会完全挡光，但透明方块要么对光亮没有影响，要么只微弱地挡光。 几乎所有方块都会无视重力，但不包括 沙子、红沙、沙砾、铁砧、龙蛋、混凝土粉末，还有在携带版中的雪。
@@ -1142,9 +1317,6 @@ LINK</description>
 <h2 id="材质">材质</h2>
 <p>方块表面的材质都是16×16像素的。大多数方块默认为一立方米大小，但它们能使用模型或材质包来改变。大多数方块都有静态的材质，但是水、熔岩、下界传送门、末地传送门、末地折跃门、火、海晶灯、命令方块、海晶石、和岩浆块有动画效果。通过使用材质包，玩家能够改变方块的材质和分辨率，包括决定材质是否为动态。材质包也能够使用模型来改变方块的形状或使方块等比例缩放，不过二次方长度的尺寸通常效果比较好。</p>
 <p><a href="https://jingyan.baidu.com/article/456c463b284b600a58314419.html">LINK</a></p>
-
-
-
 
 ]]></content>
         </item>
