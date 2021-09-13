@@ -1,13 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Timelines on Smallblock的博客</title>
+        <title>Timelines on 小方块的博客</title>
         <link>https://minspider.github.io/timeline/</link>
-        <description>Recent content in Timelines on Smallblock的博客</description>
+        <description>Recent content in Timelines on 小方块的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-CN</language>
-
-        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 09 Sep 2021 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>我的世界红石教程</title>
+            <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</link>
+            <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</guid>
+            <description>博主正在努力&amp;hellip;&amp;hellip; Link</description>
+            <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
+<p><a href="https://github.com/gohugoio/hugo/">Link</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>壁纸</title>
@@ -26,24 +37,138 @@
 <p><img src="https://img0.baidu.com/it/u=4089268013,2742621746&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
 <h2 id="逃离地球">逃离地球</h2>
 <p><img src="https://img1.baidu.com/it/u=3104957691,3758619350&amp;fm=26&amp;fmt=auto&amp;gp=0.jpg" alt=""></p>
-
-
-        <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+]]></content>
+        </item>
         
         <item>
             <title>minecraft指令</title>
             <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
             <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
             
-
-
-
-        <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
-
-        <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
-
-        <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
+            <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
+            <description>指令 /give
+使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
+/gamerule mobGriefing false
+作用：保护地形，防止苦力怕炸坑
+/weather 改变天气
+clear - 将天气设为晴天。
+rain - 将天气设为雨天(寒冷的生物群系会下雪)。
+thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
+/difficulty
+改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)
+/tp
+使用方法：/tp x y z 作用：传送位置
+/gamemode
+使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。
+/gamerule keepinventory true
+死亡不掉落
+/kill
+作用：不输入名字为自杀，输入其他人名字杀死其他人
+/locate
+作用快速定位结构
+▍中国版指令(基岩版本1.12.0)
+我的世界指令大全(基岩版1.12.0)
+/?/help的替代命令，提供命令使用帮助
+/ability赋予或剥夺玩家的能力。
+/clear从玩家物品栏中删除物品。
+/clone将特定区域的方块复制到另一处。
+/connect/wsserver的替代命令，连接至WebSocket服务器。
+/deop撤销玩家的管理员权限。
+/difficulty设置难度等级。
+/effect添加或移除状态效果。
+/enchant附魔玩家的物品。
+/execute执行另一命令。
+/experience给予玩家经验。
+/fill将某个区域填满特定方块。
+/function运行一个函数。
+/gamemode更改玩家的游戏模式。
+/gamerule更改或查询游戏规则值。
+/give给予玩家物品。
+/help提供命令使用帮助。
+/kill杀死实体(玩家、生物、物品等)。
+/list列出服务器中的玩家。
+/locate显示最近给定结构的坐标。</description>
+            <content type="html"><![CDATA[<h2 id="指令">指令</h2>
+<p>/give</p>
+<p>使用方法：give 名称 物品ID 数量 作用：给予玩家物品。</p>
+<p>/gamerule mobGriefing false</p>
+<p>作用：保护地形，防止苦力怕炸坑</p>
+<p>/weather 改变天气</p>
+<p>clear - 将天气设为晴天。</p>
+<p>rain - 将天气设为雨天(寒冷的生物群系会下雪)。</p>
+<p>thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。</p>
+<p>/difficulty</p>
+<p>改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)</p>
+<p>/tp</p>
+<p>使用方法：/tp x y z 作用：传送位置</p>
+<p>/gamemode</p>
+<p>使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。</p>
+<p>/gamerule keepinventory true</p>
+<p>死亡不掉落</p>
+<p>/kill</p>
+<p>作用：不输入名字为自杀，输入其他人名字杀死其他人</p>
+<p>/locate</p>
+<p>作用快速定位结构</p>
+<p>▍中国版指令(基岩版本1.12.0)</p>
+<p>我的世界指令大全(基岩版1.12.0)</p>
+<p>/?/help的替代命令，提供命令使用帮助</p>
+<p>/ability赋予或剥夺玩家的能力。</p>
+<p>/clear从玩家物品栏中删除物品。</p>
+<p>/clone将特定区域的方块复制到另一处。</p>
+<p>/connect/wsserver的替代命令，连接至WebSocket服务器。</p>
+<p>/deop撤销玩家的管理员权限。</p>
+<p>/difficulty设置难度等级。</p>
+<p>/effect添加或移除状态效果。</p>
+<p>/enchant附魔玩家的物品。</p>
+<p>/execute执行另一命令。</p>
+<p>/experience给予玩家经验。</p>
+<p>/fill将某个区域填满特定方块。</p>
+<p>/function运行一个函数。</p>
+<p>/gamemode更改玩家的游戏模式。</p>
+<p>/gamerule更改或查询游戏规则值。</p>
+<p>/give给予玩家物品。</p>
+<p>/help提供命令使用帮助。</p>
+<p>/kill杀死实体(玩家、生物、物品等)。</p>
+<p>/list列出服务器中的玩家。</p>
+<p>/locate显示最近给定结构的坐标。</p>
+<p>/me显示一条关于自己的信息。</p>
+<p>/mixerMixer交互性控制。</p>
+<p>/mobevent控制或查询允许运行的生物事件。</p>
+<p>/msg/tell的替代命令，向另一玩家发送私信。</p>
+<p>/op授予玩家管理员权限。</p>
+<p>/particle创建颗粒。</p>
+<p>/playsound播放音效。</p>
+<p>/reload从硬盘中重新加载战利品表、进度和函数。</p>
+<p>/replaceitem替换物品栏中的物品。</p>
+<p>/resupply立即补给村庄新经济供需体系。</p>
+<p>/save准备备份，查询其状态或恢复。</p>
+<p>/say向多个玩家发送消息。</p>
+<p>/scoreboard管理记分板目标、玩家、队伍与标签。</p>
+<p>/setblock将方块替换为其他方块。</p>
+<p>/setmaxplayers设置可加入游戏的玩家数量上限。</p>
+<p>/setworldspawn设置世界出生点。</p>
+<p>/spawnpoint为玩家设置出生点。</p>
+<p>/spreadplayers将实体传送到随机位置。</p>
+<p>/stopsound 停止音效。</p>
+<p>/summon 生成实体。</p>
+<p>/tag 修改玩家或实体的标签。</p>
+<p>/teleport /tp的替代命令，传送实体。</p>
+<p>/tell 向另一玩家发送私信。</p>
+<p>/tellraw向玩家显示JSON消息。</p>
+<p>/testfor 统计符合给定条件的实体。</p>
+<p>/testforblock测定某方块是否在某位置。</p>
+<p>/testforblocks 测定两个区域中的方块是否相同。</p>
+<p>/time 更改或查询游戏中的世界时间。</p>
+<p>/title 管理屏幕上的标题。</p>
+<p>/toggledownfall 切换天气。</p>
+<p>/tp 传送实体。</p>
+<p>/w /tell的替代命令，向另一玩家发送私信。</p>
+<p>/weather设置天气。</p>
+<p>/wsserver 连接至WebSocket服务器。</p>
+<p>/xp 增加或减少经验。</p>
+<p><a href="http://www.minecraftxz.com/zhilingdaquan/">Link</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>生物</title>
@@ -492,836 +617,5 @@ LINK</description>
 ]]></content>
         </item>
         
-        <item>
-            <title>Lorem Ipsum Dolor</title>
-            <link>https://minspider.github.io/timeline/lorem_ipsum_dolor/</link>
-            <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/lorem_ipsum_dolor/</guid>
-            <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
-            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
-<p>Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Tristique nulla aliquet enim tortor at auctor urna nunc id. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Ultrices tincidunt arcu non sodales neque. Malesuada fames ac turpis egestas integer eget aliquet. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Molestie at elementum eu facilisis sed odio morbi quis commodo. Risus in hendrerit gravida rutrum quisque. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Leo vel orci porta non pulvinar neque laoreet suspendisse. Condimentum lacinia quis vel eros donec. Mi bibendum neque egestas congue quisque egestas diam in arcu. Ultricies integer quis auctor elit sed. Gravida dictum fusce ut placerat. Magna fermentum iaculis eu non diam phasellus vestibulum lorem.</p>
-<p>Sapien faucibus et molestie ac feugiat sed. Varius sit amet mattis vulputate enim nulla. Risus ultricies tristique nulla aliquet enim tortor at. Lobortis elementum nibh tellus molestie nunc non. Nisl nisi scelerisque eu ultrices vitae auctor eu. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Sit amet justo donec enim diam. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Donec ultrices tincidunt arcu non. Magna ac placerat vestibulum lectus mauris. Eget nunc lobortis mattis aliquam faucibus. Tristique nulla aliquet enim tortor at auctor.</p>
-<p><a href="https://gohugo.io/">Link</a></p>
-
-        <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://minspider.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>minecraft指令</title>
-            <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-            <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
-            <description>指令 /give
-使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
-/gamerule mobGriefing false
-作用：保护地形，防止苦力怕炸坑
-/weather 改变天气
-clear - 将天气设为晴天。
-rain - 将天气设为雨天(寒冷的生物群系会下雪)。
-thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
-/difficulty
-改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)
-/tp
-使用方法：/tp x y z 作用：传送位置
-/gamemode
-使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。
-/gamerule keepinventory true
-死亡不掉落
-/kill
-作用：不输入名字为自杀，输入其他人名字杀死其他人
-/locate
-作用快速定位结构
-▍中国版指令(基岩版本1.12.0)
-我的世界指令大全(基岩版1.12.0)
-/?/help的替代命令，提供命令使用帮助
-/ability赋予或剥夺玩家的能力。
-/clear从玩家物品栏中删除物品。
-/clone将特定区域的方块复制到另一处。
-/connect/wsserver的替代命令，连接至WebSocket服务器。
-/deop撤销玩家的管理员权限。
-/difficulty设置难度等级。
-/effect添加或移除状态效果。
-/enchant附魔玩家的物品。
-/execute执行另一命令。
-/experience给予玩家经验。
-/fill将某个区域填满特定方块。
-/function运行一个函数。
-/gamemode更改玩家的游戏模式。
-/gamerule更改或查询游戏规则值。
-/give给予玩家物品。
-/help提供命令使用帮助。
-/kill杀死实体(玩家、生物、物品等)。
-/list列出服务器中的玩家。
-/locate显示最近给定结构的坐标。</description>
-            <content type="html"><![CDATA[<h2 id="指令">指令</h2>
-<p>/give</p>
-<p>使用方法：give 名称 物品ID 数量 作用：给予玩家物品。</p>
-<p>/gamerule mobGriefing false</p>
-<p>作用：保护地形，防止苦力怕炸坑</p>
-<p>/weather 改变天气</p>
-<p>clear - 将天气设为晴天。</p>
-<p>rain - 将天气设为雨天(寒冷的生物群系会下雪)。</p>
-<p>thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。</p>
-<p>/difficulty</p>
-<p>改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)</p>
-<p>/tp</p>
-<p>使用方法：/tp x y z 作用：传送位置</p>
-<p>/gamemode</p>
-<p>使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。</p>
-<p>/gamerule keepinventory true</p>
-<p>死亡不掉落</p>
-<p>/kill</p>
-<p>作用：不输入名字为自杀，输入其他人名字杀死其他人</p>
-<p>/locate</p>
-<p>作用快速定位结构</p>
-<p>▍中国版指令(基岩版本1.12.0)</p>
-<p>我的世界指令大全(基岩版1.12.0)</p>
-<p>/?/help的替代命令，提供命令使用帮助</p>
-<p>/ability赋予或剥夺玩家的能力。</p>
-<p>/clear从玩家物品栏中删除物品。</p>
-<p>/clone将特定区域的方块复制到另一处。</p>
-<p>/connect/wsserver的替代命令，连接至WebSocket服务器。</p>
-<p>/deop撤销玩家的管理员权限。</p>
-<p>/difficulty设置难度等级。</p>
-<p>/effect添加或移除状态效果。</p>
-<p>/enchant附魔玩家的物品。</p>
-<p>/execute执行另一命令。</p>
-<p>/experience给予玩家经验。</p>
-<p>/fill将某个区域填满特定方块。</p>
-<p>/function运行一个函数。</p>
-<p>/gamemode更改玩家的游戏模式。</p>
-<p>/gamerule更改或查询游戏规则值。</p>
-<p>/give给予玩家物品。</p>
-<p>/help提供命令使用帮助。</p>
-<p>/kill杀死实体(玩家、生物、物品等)。</p>
-<p>/list列出服务器中的玩家。</p>
-<p>/locate显示最近给定结构的坐标。</p>
-<p>/me显示一条关于自己的信息。</p>
-<p>/mixerMixer交互性控制。</p>
-<p>/mobevent控制或查询允许运行的生物事件。</p>
-<p>/msg/tell的替代命令，向另一玩家发送私信。</p>
-<p>/op授予玩家管理员权限。</p>
-<p>/particle创建颗粒。</p>
-<p>/playsound播放音效。</p>
-<p>/reload从硬盘中重新加载战利品表、进度和函数。</p>
-<p>/replaceitem替换物品栏中的物品。</p>
-<p>/resupply立即补给村庄新经济供需体系。</p>
-<p>/save准备备份，查询其状态或恢复。</p>
-<p>/say向多个玩家发送消息。</p>
-<p>/scoreboard管理记分板目标、玩家、队伍与标签。</p>
-<p>/setblock将方块替换为其他方块。</p>
-<p>/setmaxplayers设置可加入游戏的玩家数量上限。</p>
-<p>/setworldspawn设置世界出生点。</p>
-<p>/spawnpoint为玩家设置出生点。</p>
-<p>/spreadplayers将实体传送到随机位置。</p>
-<p>/stopsound 停止音效。</p>
-<p>/summon 生成实体。</p>
-<p>/tag 修改玩家或实体的标签。</p>
-<p>/teleport /tp的替代命令，传送实体。</p>
-<p>/tell 向另一玩家发送私信。</p>
-<p>/tellraw向玩家显示JSON消息。</p>
-<p>/testfor 统计符合给定条件的实体。</p>
-<p>/testforblock测定某方块是否在某位置。</p>
-<p>/testforblocks 测定两个区域中的方块是否相同。</p>
-<p>/time 更改或查询游戏中的世界时间。</p>
-<p>/title 管理屏幕上的标题。</p>
-<p>/toggledownfall 切换天气。</p>
-<p>/tp 传送实体。</p>
-<p>/w /tell的替代命令，向另一玩家发送私信。</p>
-<p>/weather设置天气。</p>
-<p>/wsserver 连接至WebSocket服务器。</p>
-<p>/xp 增加或减少经验。</p>
-<p><a href="http://www.minecraftxz.com/zhilingdaquan/">Link</a></p>
-
-
-
-
-
-]]></content>
-        </item>
-        
-        <item>
-
-            <title>minecraft指令</title>
-            <link>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</link>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/minecraft%E6%8C%87%E4%BB%A4/</guid>
-            <description>指令 /give
-使用方法：give 名称 物品ID 数量 作用：给予玩家物品。
-/gamerule mobGriefing false
-作用：保护地形，防止苦力怕炸坑
-/weather 改变天气
-clear - 将天气设为晴天。
-rain - 将天气设为雨天(寒冷的生物群系会下雪)。
-thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。
-/difficulty
-改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)
-/tp
-使用方法：/tp x y z 作用：传送位置
-/gamemode
-使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。
-/gamerule keepinventory true
-死亡不掉落
-/kill
-作用：不输入名字为自杀，输入其他人名字杀死其他人
-/locate
-作用快速定位结构
-▍中国版指令(基岩版本1.12.0)
-我的世界指令大全(基岩版1.12.0)
-/?/help的替代命令，提供命令使用帮助
-/ability赋予或剥夺玩家的能力。
-/clear从玩家物品栏中删除物品。
-/clone将特定区域的方块复制到另一处。
-/connect/wsserver的替代命令，连接至WebSocket服务器。
-/deop撤销玩家的管理员权限。
-/difficulty设置难度等级。
-/effect添加或移除状态效果。
-/enchant附魔玩家的物品。
-/execute执行另一命令。
-/experience给予玩家经验。
-/fill将某个区域填满特定方块。
-/function运行一个函数。
-/gamemode更改玩家的游戏模式。
-/gamerule更改或查询游戏规则值。
-/give给予玩家物品。
-/help提供命令使用帮助。
-/kill杀死实体(玩家、生物、物品等)。
-/list列出服务器中的玩家。
-/locate显示最近给定结构的坐标。</description>
-            <content type="html"><![CDATA[<h2 id="指令">指令</h2>
-<p>/give</p>
-<p>使用方法：give 名称 物品ID 数量 作用：给予玩家物品。</p>
-<p>/gamerule mobGriefing false</p>
-<p>作用：保护地形，防止苦力怕炸坑</p>
-<p>/weather 改变天气</p>
-<p>clear - 将天气设为晴天。</p>
-<p>rain - 将天气设为雨天(寒冷的生物群系会下雪)。</p>
-<p>thunder - 将天气设为雷暴雨(寒冷的生物群系会下雷暴雪)。</p>
-<p>/difficulty</p>
-<p>改难度 peaceful(和平) easy(简单) normal(一般) hard(困难)</p>
-<p>/tp</p>
-<p>使用方法：/tp x y z 作用：传送位置</p>
-<p>/gamemode</p>
-<p>使用方法：“gamemode 0”为生存模式，“gamemode 1”为创造模式，“gamemode 2”为冒险模式，“gamemode 3”为旁观。</p>
-<p>/gamerule keepinventory true</p>
-<p>死亡不掉落</p>
-<p>/kill</p>
-<p>作用：不输入名字为自杀，输入其他人名字杀死其他人</p>
-<p>/locate</p>
-<p>作用快速定位结构</p>
-<p>▍中国版指令(基岩版本1.12.0)</p>
-<p>我的世界指令大全(基岩版1.12.0)</p>
-<p>/?/help的替代命令，提供命令使用帮助</p>
-<p>/ability赋予或剥夺玩家的能力。</p>
-<p>/clear从玩家物品栏中删除物品。</p>
-<p>/clone将特定区域的方块复制到另一处。</p>
-<p>/connect/wsserver的替代命令，连接至WebSocket服务器。</p>
-<p>/deop撤销玩家的管理员权限。</p>
-<p>/difficulty设置难度等级。</p>
-<p>/effect添加或移除状态效果。</p>
-<p>/enchant附魔玩家的物品。</p>
-<p>/execute执行另一命令。</p>
-<p>/experience给予玩家经验。</p>
-<p>/fill将某个区域填满特定方块。</p>
-<p>/function运行一个函数。</p>
-<p>/gamemode更改玩家的游戏模式。</p>
-<p>/gamerule更改或查询游戏规则值。</p>
-<p>/give给予玩家物品。</p>
-<p>/help提供命令使用帮助。</p>
-<p>/kill杀死实体(玩家、生物、物品等)。</p>
-<p>/list列出服务器中的玩家。</p>
-<p>/locate显示最近给定结构的坐标。</p>
-<p>/me显示一条关于自己的信息。</p>
-<p>/mixerMixer交互性控制。</p>
-<p>/mobevent控制或查询允许运行的生物事件。</p>
-<p>/msg/tell的替代命令，向另一玩家发送私信。</p>
-<p>/op授予玩家管理员权限。</p>
-<p>/particle创建颗粒。</p>
-<p>/playsound播放音效。</p>
-<p>/reload从硬盘中重新加载战利品表、进度和函数。</p>
-<p>/replaceitem替换物品栏中的物品。</p>
-<p>/resupply立即补给村庄新经济供需体系。</p>
-<p>/save准备备份，查询其状态或恢复。</p>
-<p>/say向多个玩家发送消息。</p>
-<p>/scoreboard管理记分板目标、玩家、队伍与标签。</p>
-<p>/setblock将方块替换为其他方块。</p>
-<p>/setmaxplayers设置可加入游戏的玩家数量上限。</p>
-<p>/setworldspawn设置世界出生点。</p>
-<p>/spawnpoint为玩家设置出生点。</p>
-<p>/spreadplayers将实体传送到随机位置。</p>
-<p>/stopsound 停止音效。</p>
-<p>/summon 生成实体。</p>
-<p>/tag 修改玩家或实体的标签。</p>
-<p>/teleport /tp的替代命令，传送实体。</p>
-<p>/tell 向另一玩家发送私信。</p>
-<p>/tellraw向玩家显示JSON消息。</p>
-<p>/testfor 统计符合给定条件的实体。</p>
-<p>/testforblock测定某方块是否在某位置。</p>
-<p>/testforblocks 测定两个区域中的方块是否相同。</p>
-<p>/time 更改或查询游戏中的世界时间。</p>
-<p>/title 管理屏幕上的标题。</p>
-<p>/toggledownfall 切换天气。</p>
-<p>/tp 传送实体。</p>
-<p>/w /tell的替代命令，向另一玩家发送私信。</p>
-<p>/weather设置天气。</p>
-<p>/wsserver 连接至WebSocket服务器。</p>
-<p>/xp 增加或减少经验。</p>
-<p><a href="http://www.minecraftxz.com/zhilingdaquan/">Link</a></p>
-]]></content>
-        </item>
-        
-        <item>
-
-            <title>我的世界红石教程</title>
-            <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</link>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</guid>
-            <description>博主正在努力&amp;hellip;&amp;hellip; Link</description>
-            <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
-
-
-            <title>Sapien faucibus</title>
-            <link>https://minspider.github.io/timeline/sapien_faucibus/</link>
-            <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/sapien_faucibus/</guid>
-            <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
-            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
-<p>Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Tristique nulla aliquet enim tortor at auctor urna nunc id. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Ultrices tincidunt arcu non sodales neque. Malesuada fames ac turpis egestas integer eget aliquet. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Molestie at elementum eu facilisis sed odio morbi quis commodo. Risus in hendrerit gravida rutrum quisque. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Leo vel orci porta non pulvinar neque laoreet suspendisse. Condimentum lacinia quis vel eros donec. Mi bibendum neque egestas congue quisque egestas diam in arcu. Ultricies integer quis auctor elit sed. Gravida dictum fusce ut placerat. Magna fermentum iaculis eu non diam phasellus vestibulum lorem.</p>
-<p>Sapien faucibus et molestie ac feugiat sed. Varius sit amet mattis vulputate enim nulla. Risus ultricies tristique nulla aliquet enim tortor at. Lobortis elementum nibh tellus molestie nunc non. Nisl nisi scelerisque eu ultrices vitae auctor eu. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Sit amet justo donec enim diam. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Donec ultrices tincidunt arcu non. Magna ac placerat vestibulum lectus mauris. Eget nunc lobortis mattis aliquam faucibus. Tristique nulla aliquet enim tortor at auctor.</p>
-
-
-            <title>我的世界红石教程</title>
-            <link>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</link>
-            <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BA%A2%E7%9F%B3%E6%95%99%E7%A8%8B/</guid>
-            <description>博主正在努力&amp;hellip;&amp;hellip; Link</description>
-            <content type="html"><![CDATA[<h2 id="博主正在努力">博主正在努力&hellip;&hellip;</h2>
-
-
-
-
-
-<p><a href="https://github.com/gohugoio/hugo/">Link</a></p>
-]]></content>
-        </item>
-        
-
-        <item>
-
-            <title>生物</title>
-            <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
-            <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <title>生物</title>
-            <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
-            <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <title>Amet Mauris</title>
-            <link>https://minspider.github.io/timeline/amet_mauris/</link>
-            <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/amet_mauris/</guid>
-            <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
-            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
-<p>Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Tristique nulla aliquet enim tortor at auctor urna nunc id. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Ultrices tincidunt arcu non sodales neque. Malesuada fames ac turpis egestas integer eget aliquet. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Molestie at elementum eu facilisis sed odio morbi quis commodo. Risus in hendrerit gravida rutrum quisque. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Leo vel orci porta non pulvinar neque laoreet suspendisse. Condimentum lacinia quis vel eros donec. Mi bibendum neque egestas congue quisque egestas diam in arcu. Ultricies integer quis auctor elit sed. Gravida dictum fusce ut placerat. Magna fermentum iaculis eu non diam phasellus vestibulum lorem.</p>
-<p><a href="https://github.com/gohugoio/hugo/">LINK</a></p>
-
-            <title>生物</title>
-            <link>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</link>
-            <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <guid>https://minspider.github.io/timeline/%E7%94%9F%E7%89%A9/</guid>
-            <description>生物百科 僵尸
-僵尸（Zombie），与玩家形态相近。在1.4版本增加了与村民相似的僵尸&amp;ndash;僵尸村民。 [5] 僵尸是一种常见的攻击型亡灵生物，通常生成在主世界的亮度等级小于等于7的可刷怪方块上，当玩家或者村民进入它们的攻击范围时，它们就会向玩家或村民前进并抬起手试图接触以进行攻击。 僵尸外形为一个玩家，但是头部除了空洞的眼窝之外，将对比度、彩度和色相被经过调整成绿色。一般僵尸的手会举起来。僵尸会穿着和默认玩家（Steve）一模一样的服装，有时会因为误认玩家为僵尸而遭到攻击。僵尸的身高为1.9米，因此可以行走于2格高的洞穴和穿过门被破坏后的门框。 僵尸常生成于夜晚、洞穴、森林里等阴暗及光照不足的地方，一般会以2到6只成群出现，会向玩家前进并试图接触以进行攻击，并会拾取掉落到地面的物品，若捡到武器则会增强其攻击能力,捡到头盔则不会在白天燃烧。 当僵尸泡在水里超过45秒，它会变成溺尸并掉落身上的所有装备。不同于其他的敌对生物，僵尸有更远的40格察觉范围。玩家可以装备僵尸头颅以降低僵尸的察觉范围到20格。‌‌[仅Java版]
-僵尸村民
-僵尸村民（Zombie Villager）外型为一个村民穿着玩家的内衣服装但头部对比度、彩度和色相被经过调整成绿色，并另外将眼睛改成红色。1.9后，僵尸村民有不同的外观。 出没地点与僵尸大致相同，不过所有僵尸中只会有一成的僵尸村民，或一只村民被僵尸杀死会有一定的机率（简单模式和普通模式为50%、困难为100%）变成僵尸村民。僵尸村民的行为与僵尸大致相同，它和普通僵尸一样可以感染其他村民，小村民也能感染。被感染个孩童称为幼年僵尸村民或小僵尸村民。 僵尸村民可以视为被“病毒”感染的村民，因为它可以被虚弱药水和金苹果治疗痊愈。 1.14版本，僵尸村民更换了材质。
-尸壳
-尸壳（Husk）是僵尸的一个变种，生成于沙漠中。和僵尸不同的是，尸壳在阳光下不会自燃。 [6] 尸壳在攻击时会给予任何玩家或生物饥饿，此效果的持续时间会根据游戏难度而不同。 由于尸壳只在沙漠里生成，玩家可以不在沙漠群系居住来避免遇见它们
-溺尸
-溺尸（Drowned）为1.13新增的怪物，僵尸变种，在僵尸被淹死时产生。又名水鬼。生成时有可能手持三叉戟，三叉戟会有不同的破损。 还有可能手持鱼竿。 溺尸的行为和僵尸类似。它们只在海洋和河流生成。僵尸也可以溺水并在约45秒后转化成溺尸。它们像普通僵尸一样容易击杀，除了生成时持有三叉戟的溺尸。 在基岩版中，当玩家距离溺尸3格以内时，持有三叉戟的溺尸会停止使用远程攻击 它们的掉落物包括腐肉，金锭，三叉戟，钓鱼竿，和鹦鹉螺壳，取决于它们生成时持有的物品。
-小僵尸
-小僵尸/小僵尸村民/小尸壳/小溺尸的肤色与成年个体相同，高度为1.5，头跟成年个体一样大，但身体要更小。移动速度大于成年个体，甚至稍大于玩家行走速度，同时免疫伤害药水，同样可以捡拾装备。在1.15版本中小僵尸以及除尸壳以外的所有僵尸的变种都会在阳光下燃烧。
-鸡骑士
-鸡骑士（Chicken Jockey）出生方法与蜘蛛骑士相近。从外表看来是一只幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸在小鸡上面，高度为1.5，幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸可以控制小鸡的行走方向，速度与幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸相同，免疫摔落伤害，虽然可以通过1 格高的隧道，但是同时幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸会受到窒息伤害。用小僵尸/小僵尸猪灵/僵尸有很低的几率造出鸡骑士。
-巨人
-巨人（Giant）外形与僵尸相同，但身高近12米，它们使用放大了6倍的僵尸模型。可以使用/summon giant命令来召唤巨人。 巨人没有AI，因此他们在生成时总会面朝南，永远不会移动、转头、追逐玩家。即使玩家攻击它，它也只会像其他生物一样被击退，不会有任何其他反应。它们的视角方向只能通过命令修改。
-爬行者
-爬行者（Creeper），又称苦力怕，构思来自猪的模型因为错误所导致‘‘美丽的错误’’。是一种绿绿的、安静的，会埋伏等待玩家出现后点燃自己爆炸伤害玩家及周围环境的怪物。因为该怪物自爆后会导致周围的建筑物或地面等被它炸出一个大洞，辛辛苦苦盖好的建筑物毁于一旦，招来了专研于建筑的玩家的恐惧，因而有人将其音译成苦力怕。 爬行者会对爆炸所及之处生物造成49点伤害。 外型是绿色的，身上有深绿色的斑点；没有手，有四只脚，体内富含三硝基甲苯（也就是TNT），爆炸前会滋滋作响和闪烁并膨胀（持续4秒） 爬行者会在阴暗的地方生成，和僵尸和骷髅不一样，他们暴露在阳光下时不会着火。另外，苦力怕会躲开猫和豹猫，所以玩家带驯服的豹猫出外可防止被苦力怕袭击。 爬行者可以直接被打火石点燃爆炸。
-高压爬行者
-爬行者被雷电击中的话会变成高压爬行者（Charged Creeper）。高压爬行者爆炸范围更大，杀伤力也更强。 他们会有更加强大的搜索你的能力（32格）。高压爬行者爆炸时能使卷入爆炸的部分怪物掉落相应头颅。 高压爬行者会对爆炸所及之处生物造成97伤害。
-史莱姆
-史莱姆（Slime），外形为绿色、半液态，粘液状的正方体怪物。 自然生成的史莱姆依体型可以分成三种:大型、中型、小型。当大型或中型史莱姆死亡时，会分裂成2—4个更小的史莱姆，当小型史莱姆死亡时，会掉落黏液球。史莱姆可以存在更大型的，但不会自然产生。巨型史莱姆死亡时会分裂成两个体形为原来二分之一的史莱姆。（史莱姆生成时都是朝东方的，即使把史莱姆推向其他方向，也会转回去的。）史莱姆比较稀少。超平坦模式会打搅你正常游戏（数量过多，声音大）。 在三种会自然生成的史莱姆中，最小的史莱姆因为太小而无法对玩家造成有效攻击（即不会损血），也因此也被玩家当成宠物来养。 史莱姆会以跳来移动，若史莱姆掉到水里，将会沉到水底，然后死亡消失，这是合理的，因为在现实中那些物质可溶于水。
-骷髅
-骷髅（Skeleton），又称小白，是一种白色的骨骼生物。会利用弓箭攻击玩家或是其他攻击它的生物，死后掉下骨头和箭也有小机率掉下附魔的弓。如骷髅没有拿弓（生成时携带了除了弓以外的武器或者随地捡起的），则其攻击方式与僵尸相近。 骷髅右手持有一把弓，死亡后会掉落骨头和弓或箭，如其穿了装备/护甲,则有一定几率掉落其身上的装备/护甲.其中，只有被玩家杀死的骷髅才会掉落弓。此外，骷髅射出的箭无法捡起。 骷髅会漫无目的的行走，但当遇到玩家之后会利用弓箭攻击玩家或其他生物。特别的地方是攻击时会不断的往目标的左边移动，行走时跳跃使目标难以回击。 骷髅走路的速度很慢，比玩家还慢，当发现攻击目标时（不一定是玩家，有可能是其它打到他或激怒它的生物），就会开始射箭，并且会以往右绕圈的方式移动，使玩家不易回击。与僵尸相同，不管在任何情况，骷髅都会追逐玩家直到玩家在骷髅的视线外或者骷髅死亡。 如果骷髅没有拿弓，它会像僵尸一样贴身攻击，但是速度比原来更快。 骷髅射的弓箭难以瞄准五米（10格）以外的物体，有时会因击中其他生物而与其他生物发生冲突，激怒某些生物，此时，骷髅不会攻击玩家，而是向被激怒的生物回击。 骷髅也会逃离任何狼（驯服与未驯服的），只有在被逼入死角或被攻击时才会还击。
-凋灵骷髅
-凋灵骷髅（Wither skeleton）是会出没在地狱（下界）的攻击型生物。他们和骷髅几乎是一样的，只是颜色是黑色，而明显与骷髅不同的是，他们手上拿的不是弓箭，而是石剑（也有可能拿弓箭）。 注意凋灵骷髅的攻击伤害极高，难度为普通/困难下，还会附加每秒持续掉血之“凋零”状态（注意，是凋灵骷髅，凋零状态），其危险性与苦力怕不相上下。 外形像一只被熏黑或烧得焦黑的骷髅，也因如此凋灵骷髅对火免疫，也因为如此，它死亡后会掉落的东西不只是骨头，还有煤炭和凋灵骷髅头。凋灵骷髅表面的纹路和骷髅有所不同，并不能由改变亮度、对比、色相、彩度来得到，是另外设计的花纹。 凋灵骷髅会出没在地狱堡垒中光线昏暗之处，经常与烈焰人共存。 它无法捡起任何弓，即使是用发射器强制装备。 如果用指令生成一个持弓的凋灵骷髅，它会射出带火焰的箭，即使弓没有附魔。
-流浪者
-流浪者（Stray），又名流髑，为骷髅在雪地里的变种。流浪者的行为方式与普通的骷髅很相似。但他们射出的箭击中的任何目标都会被带有30秒钟的迟缓效果。但尽管流浪者所射出的箭拥有迟缓效果，他们自身也不能对迟缓药水效果免疫。 在冰原、冰刺平原和冰山上直接暴露在天空之下生成的骷髅中80%会成为流浪者。流浪者不会被自然生成的刷怪箱生成，无论是否暴露在天空下。</description>
-            <content type="html"><![CDATA[<h2 id="生物百科">生物百科</h2>
-<p>僵尸</p>
-<p>僵尸（Zombie），与玩家形态相近。在1.4版本增加了与村民相似的僵尸&ndash;僵尸村民。 [5]
-僵尸是一种常见的攻击型亡灵生物，通常生成在主世界的亮度等级小于等于7的可刷怪方块上，当玩家或者村民进入它们的攻击范围时，它们就会向玩家或村民前进并抬起手试图接触以进行攻击。
-僵尸外形为一个玩家，但是头部除了空洞的眼窝之外，将对比度、彩度和色相被经过调整成绿色。一般僵尸的手会举起来。僵尸会穿着和默认玩家（Steve）一模一样的服装，有时会因为误认玩家为僵尸而遭到攻击。僵尸的身高为1.9米，因此可以行走于2格高的洞穴和穿过门被破坏后的门框。
-僵尸常生成于夜晚、洞穴、森林里等阴暗及光照不足的地方，一般会以2到6只成群出现，会向玩家前进并试图接触以进行攻击，并会拾取掉落到地面的物品，若捡到武器则会增强其攻击能力,捡到头盔则不会在白天燃烧。
-当僵尸泡在水里超过45秒，它会变成溺尸并掉落身上的所有装备。不同于其他的敌对生物，僵尸有更远的40格察觉范围。玩家可以装备僵尸头颅以降低僵尸的察觉范围到20格。‌‌[仅Java版]</p>
-<p>僵尸村民</p>
-<p>僵尸村民（Zombie Villager）外型为一个村民穿着玩家的内衣服装但头部对比度、彩度和色相被经过调整成绿色，并另外将眼睛改成红色。1.9后，僵尸村民有不同的外观。
-出没地点与僵尸大致相同，不过所有僵尸中只会有一成的僵尸村民，或一只村民被僵尸杀死会有一定的机率（简单模式和普通模式为50%、困难为100%）变成僵尸村民。僵尸村民的行为与僵尸大致相同，它和普通僵尸一样可以感染其他村民，小村民也能感染。被感染个孩童称为幼年僵尸村民或小僵尸村民。
-僵尸村民可以视为被“病毒”感染的村民，因为它可以被虚弱药水和金苹果治疗痊愈。
-1.14版本，僵尸村民更换了材质。</p>
-<p>尸壳</p>
-<p>尸壳（Husk）是僵尸的一个变种，生成于沙漠中。和僵尸不同的是，尸壳在阳光下不会自燃。 [6]  尸壳在攻击时会给予任何玩家或生物饥饿，此效果的持续时间会根据游戏难度而不同。
-由于尸壳只在沙漠里生成，玩家可以不在沙漠群系居住来避免遇见它们</p>
-<p>溺尸</p>
-<p>溺尸（Drowned）为1.13新增的怪物，僵尸变种，在僵尸被淹死时产生。又名水鬼。生成时有可能手持三叉戟，三叉戟会有不同的破损。
-还有可能手持鱼竿。
-溺尸的行为和僵尸类似。它们只在海洋和河流生成。僵尸也可以溺水并在约45秒后转化成溺尸。它们像普通僵尸一样容易击杀，除了生成时持有三叉戟的溺尸。
-在基岩版中，当玩家距离溺尸3格以内时，持有三叉戟的溺尸会停止使用远程攻击
-它们的掉落物包括腐肉，金锭，三叉戟，钓鱼竿，和鹦鹉螺壳，取决于它们生成时持有的物品。</p>
-<p>小僵尸</p>
-<p>小僵尸/小僵尸村民/小尸壳/小溺尸的肤色与成年个体相同，高度为1.5，头跟成年个体一样大，但身体要更小。移动速度大于成年个体，甚至稍大于玩家行走速度，同时免疫伤害药水，同样可以捡拾装备。在1.15版本中小僵尸以及除尸壳以外的所有僵尸的变种都会在阳光下燃烧。</p>
-<p>鸡骑士</p>
-<p>鸡骑士（Chicken Jockey）出生方法与蜘蛛骑士相近。从外表看来是一只幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸在小鸡上面，高度为1.5，幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸可以控制小鸡的行走方向，速度与幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸相同，免疫摔落伤害，虽然可以通过1 格高的隧道，但是同时幼年僵尸/僵尸猪灵/僵尸村民/尸壳/溺尸会受到窒息伤害。用小僵尸/小僵尸猪灵/僵尸有很低的几率造出鸡骑士。</p>
-<p>巨人</p>
-<p>巨人（Giant）外形与僵尸相同，但身高近12米，它们使用放大了6倍的僵尸模型。可以使用/summon giant命令来召唤巨人。
-巨人没有AI，因此他们在生成时总会面朝南，永远不会移动、转头、追逐玩家。即使玩家攻击它，它也只会像其他生物一样被击退，不会有任何其他反应。它们的视角方向只能通过命令修改。</p>
-<p>爬行者</p>
-<p>爬行者（Creeper），又称苦力怕，构思来自猪的模型因为错误所导致‘‘美丽的错误’’。是一种绿绿的、安静的，会埋伏等待玩家出现后点燃自己爆炸伤害玩家及周围环境的怪物。因为该怪物自爆后会导致周围的建筑物或地面等被它炸出一个大洞，辛辛苦苦盖好的建筑物毁于一旦，招来了专研于建筑的玩家的恐惧，因而有人将其音译成苦力怕。
-爬行者会对爆炸所及之处生物造成49点伤害。
-外型是绿色的，身上有深绿色的斑点；没有手，有四只脚，体内富含三硝基甲苯（也就是TNT），爆炸前会滋滋作响和闪烁并膨胀（持续4秒）
-爬行者会在阴暗的地方生成，和僵尸和骷髅不一样，他们暴露在阳光下时不会着火。另外，苦力怕会躲开猫和豹猫，所以玩家带驯服的豹猫出外可防止被苦力怕袭击。
-爬行者可以直接被打火石点燃爆炸。</p>
-<p>高压爬行者</p>
-<p>爬行者被雷电击中的话会变成高压爬行者（Charged Creeper）。高压爬行者爆炸范围更大，杀伤力也更强。 他们会有更加强大的搜索你的能力（32格）。高压爬行者爆炸时能使卷入爆炸的部分怪物掉落相应头颅。
-高压爬行者会对爆炸所及之处生物造成97伤害。</p>
-<p>史莱姆</p>
-<p>史莱姆（Slime），外形为绿色、半液态，粘液状的正方体怪物。
-自然生成的史莱姆依体型可以分成三种:大型、中型、小型。当大型或中型史莱姆死亡时，会分裂成2—4个更小的史莱姆，当小型史莱姆死亡时，会掉落黏液球。史莱姆可以存在更大型的，但不会自然产生。巨型史莱姆死亡时会分裂成两个体形为原来二分之一的史莱姆。（史莱姆生成时都是朝东方的，即使把史莱姆推向其他方向，也会转回去的。）史莱姆比较稀少。超平坦模式会打搅你正常游戏（数量过多，声音大）。
-在三种会自然生成的史莱姆中，最小的史莱姆因为太小而无法对玩家造成有效攻击（即不会损血），也因此也被玩家当成宠物来养。
-史莱姆会以跳来移动，若史莱姆掉到水里，将会沉到水底，然后死亡消失，这是合理的，因为在现实中那些物质可溶于水。</p>
-<p>骷髅</p>
-<p>骷髅（Skeleton），又称小白，是一种白色的骨骼生物。会利用弓箭攻击玩家或是其他攻击它的生物，死后掉下骨头和箭也有小机率掉下附魔的弓。如骷髅没有拿弓（生成时携带了除了弓以外的武器或者随地捡起的），则其攻击方式与僵尸相近。
-骷髅右手持有一把弓，死亡后会掉落骨头和弓或箭，如其穿了装备/护甲,则有一定几率掉落其身上的装备/护甲.其中，只有被玩家杀死的骷髅才会掉落弓。此外，骷髅射出的箭无法捡起。
-骷髅会漫无目的的行走，但当遇到玩家之后会利用弓箭攻击玩家或其他生物。特别的地方是攻击时会不断的往目标的左边移动，行走时跳跃使目标难以回击。
-骷髅走路的速度很慢，比玩家还慢，当发现攻击目标时（不一定是玩家，有可能是其它打到他或激怒它的生物），就会开始射箭，并且会以往右绕圈的方式移动，使玩家不易回击。与僵尸相同，不管在任何情况，骷髅都会追逐玩家直到玩家在骷髅的视线外或者骷髅死亡。
-如果骷髅没有拿弓，它会像僵尸一样贴身攻击，但是速度比原来更快。
-骷髅射的弓箭难以瞄准五米（10格）以外的物体，有时会因击中其他生物而与其他生物发生冲突，激怒某些生物，此时，骷髅不会攻击玩家，而是向被激怒的生物回击。
-骷髅也会逃离任何狼（驯服与未驯服的），只有在被逼入死角或被攻击时才会还击。</p>
-<p>凋灵骷髅</p>
-<p>凋灵骷髅（Wither skeleton）是会出没在地狱（下界）的攻击型生物。他们和骷髅几乎是一样的，只是颜色是黑色，而明显与骷髅不同的是，他们手上拿的不是弓箭，而是石剑（也有可能拿弓箭）。 注意凋灵骷髅的攻击伤害极高，难度为普通/困难下，还会附加每秒持续掉血之“凋零”状态（注意，是凋灵骷髅，凋零状态），其危险性与苦力怕不相上下。
-外形像一只被熏黑或烧得焦黑的骷髅，也因如此凋灵骷髅对火免疫，也因为如此，它死亡后会掉落的东西不只是骨头，还有煤炭和凋灵骷髅头。凋灵骷髅表面的纹路和骷髅有所不同，并不能由改变亮度、对比、色相、彩度来得到，是另外设计的花纹。
-凋灵骷髅会出没在地狱堡垒中光线昏暗之处，经常与烈焰人共存。
-它无法捡起任何弓，即使是用发射器强制装备。
-如果用指令生成一个持弓的凋灵骷髅，它会射出带火焰的箭，即使弓没有附魔。</p>
-<p>流浪者</p>
-<p>流浪者（Stray），又名流髑，为骷髅在雪地里的变种。流浪者的行为方式与普通的骷髅很相似。但他们射出的箭击中的任何目标都会被带有30秒钟的迟缓效果。但尽管流浪者所射出的箭拥有迟缓效果，他们自身也不能对迟缓药水效果免疫。
-在冰原、冰刺平原和冰山上直接暴露在天空之下生成的骷髅中80%会成为流浪者。流浪者不会被自然生成的刷怪箱生成，无论是否暴露在天空下。</p>
-<p>恶魂</p>
-<p>恶魂（Ghast），又称地狱水母、地狱幽灵，是一种生成于下界的生物，血量只有10。外形为白色的类似水母的方形生物，有六条触手。会经常发出类似哭声、哽咽、悲鸣的叫声，死亡后会掉落恶魂之泪和火药，但通常会直接掉到岩浆里或火里而不能拾取。
-恶魂体型庞大，看见玩家时会射出火焰弹来攻击，玩家可利用任何物件（包括手）将火球击回，恶魂碰到岩浆不会受伤，恶魂以类似水母在空中“游泳”，即飞行来移动。 而且你用弓箭射他是有用的，他是不透明的的，用它喷的火球打他能对他造成伤害。（恶魂被自己的火球打到会造成1000点的伤害）
-恶魂在下界里5<em>5</em>5的空间即可生成，没有光照限制，但生成失败率高达90%多。</p>
-<p>烈焰人</p>
-<p>烈焰人（Blaze），又称烈焰神，是一种出没于下界要塞的怪物，外型为由
-燃烧的火焰和烟雾所组成的人形怪物，会发出金属状的声音。烈焰人能飞行，并且会喷出火球来攻击，每次至少可以连续发射3次，但每次发射之后皆须要在过一段时间才能再发出火球攻击。死亡后有一定几率掉落烈焰棒（主机版额外掉落萤石粉）。
-它只会生成与亮度小于12、Y轴等于烈焰人刷怪箱上下3格、在下界要塞中或刷怪笼中。</p>
-<p>岩浆怪</p>
-<p>岩浆怪（Magma Cube）又称熔岩史莱姆，史莱姆在下界的变种，可以造成很高的伤害，即使是最小型的也可以造成伤害。它只在地狱堡垒中出现，死亡或者分裂会掉落0~1个岩浆膏。岩浆膏可通过粘液球和烈焰粉合成。
-岩浆怪似乎只会用它的底面造成伤害（至少是小型）（需要验证）</p>
-<p>女巫</p>
-<p>女巫 （Witch），一种能够中近程攻击的生物，使用各种有害药水进行攻击，血量低下时会给自己使用治疗药水（在岩浆里会喝防火药水），如果她正在喝一个药水，在这时杀死她，有几率（约8%多一些，抢夺附魔会增加这个数值，每一级附魔都增加1%）掉落该药水。女巫之间如被激怒会与同类互打。
-如果玩家试图逃离女巫，女巫大几率会喝下迅捷药水。
-女巫单次攻击并不能杀死人，因为中毒效果会在只剩一滴血（半颗心）就不再扣血。当闪电击中村民附近3-4格方块时，村民会变成女巫。</p>
-<p>蜘蛛骑士</p>
-<p>蜘蛛骑士（Spider Jockey）是一种极为罕见且极度危险的生物，为骷髅骑蜘蛛身上的生物。当骷髅和蜘蛛在同一个座标生成时，就会变成蜘蛛骑士。它融合了骷髅的攻击力和蜘蛛的视力、敏捷、爬墙能力和攻击性。
-蜘蛛骑士可以有很多种类，例如：
-洞穴蜘蛛骑士=骷髅+洞穴蜘蛛，会罕见地出现于废弃矿井中的洞穴蜘蛛刷怪笼附近
-凋灵骷髅骑士=凋灵骷髅+蜘蛛，一般不会生成，除非在地狱要塞中使用蜘蛛刷怪蛋或刷怪笼。
-流浪者蜘蛛骑士=流浪者+蜘蛛，一般不会生成，除非在雪原和月圆之夜自然生成或使用流浪者刷怪蛋有1%的几率生成。</p>
-<p>幻翼</p>
-<p>幻翼（Phantom）是1.13新增的生物，又名幻影鳐。是一种会攻击长时间没有睡觉的玩家的攻击型生物。
-幻翼会当玩家至少3天没有睡觉后在主世界的夜间或雷暴天气时生成。
-幻翼的生成需满足以下条件：
-①玩家至少3天没有睡觉（约1小时）。
-②必须是夜晚时间，幻翼在白天时会燃烧，是亡灵生物。
-③玩家必须在海平面以上，并且头顶上方没有任何阻挡光线的方块（例如，树叶会阻挡光线，因为它们的不透明度为2，但玻璃不会，它们的不透明度为0）。
-一旦满足上述要求，游戏将会在每1200-1400刻（1-2分钟）尝试在玩家上方20-34格处以曼哈顿距离偏移最多9格远处生成1-4只幻翼。幻翼成功生成的概率会随着玩家没有睡觉的天数的增加而增加，计算公式为x-3：x，x为玩家没有睡觉的天数，因此生成将从第四晚的1/4概率开始。这样第4天的概率为1/4，第5天的概率为2/5，第6天的概率为3/6，以此类推。
-幻翼在被杀死后会掉落1-4个皮革和0-2个幻翼膜，可以通过抢夺魔咒增加。
-当空闲时，幻翼会以恒定的高度在一个圆圈内飞来飞去，同时会留下一缕灰烟。它们有很大的搜索范围，并且偶尔会俯冲或直升来攻击目标。如果在此过程中被阻挡或受到伤害，幻翼将退回到原始高度。
-幻翼是游戏中移动速度最快的非BOSS生物，其速度可高达20.83方块每秒。</p>
-<p>潜影贝</p>
-<p>潜影贝（Shulker）外壳看起来类似于紫珀块，拥有和完整方块一样的尺寸和不可进入的碰撞箱，混淆在末地城的环境中。在该生物的外壳里面是一个小小的黄色头 。
-潜影贝会依靠在一个相邻的固体方块上，6个面都可以。然而，如果潜影贝发现自己所依靠的方块已经消失，或当前占用的方块已不是空气方块，或壳打开的方向被阻挡时，就会随机传送到17x17x17内的任何一个固体方块上。如果17x17x17内没有合适的方块，那么它会保持在原来的地方浮空。 潜影贝偶尔会开壳1~3秒钟，当一个目标（通常是玩家）在它的16格范围之内，它会开壳并且发射出按照XYZ行动的、追踪玩家的潜影贝子弹，潜影贝子弹只要被玩家攻击一下就会爆炸。当子弹攻击到一个生物时，造成伤害4点并且给予10秒钟的漂浮的药水效果。只要目标在范围内，潜影贝就会隔1~5.5秒钟后继续发射子弹。当它的壳关闭后，它会有20的盔甲点数（80%伤害免疫）并免疫任何箭的攻击，但不免疫药水的攻击（如喷溅型瞬间伤害药水）。当它的壳打开，它就会失去这一天然盔甲并且正常地受到伤害。 在不到一半的生命值时，潜影贝会有25%的几率在受到伤害后传送（如上所述）。当潜影贝攻击时，范围内的其他潜影贝也将针对目标（玩家）。
-潜影贝免疫熔岩和火，并且被窒息时会传送。
-如果你放置一个沙子或者类似的方块，这个方块将会落下并被潜影贝的壳挡住，直到超时变成掉落物。
-多个潜影贝可以互相攻击，但不会受到漂浮效果的影响，由于潜影贝子弹按照xyz轴移动的特性使其很容易误伤其它东西，造成一场大混战。大多数近程攻击的生物都会占不利地位。如果潜影贝在攻击时攻击到另一个正在攻击的潜影贝的开启的壳，那么不会产生仇恨。
-潜影贝在和平模式下不会被删除，也不会攻击玩家，其子弹会被直接删除。</p>
-<p>守卫者</p>
-<p>守卫者（Guardian）仅仅会在海底遗迹周边自然生成，且它们的生成必须有水。
-在开放性水域中，守卫者的自然生成会不如非开放性水域来的频繁，也就是被覆盖的水域，例如海底神殿内部。
-守卫者会在水中游泳，攻击任何进入视线的玩家或鱿鱼。当它们这样做时，它们游泳时会突然攻击，快速移动尾巴。游泳时，它们的尖刺收回，并且攻击时它们（尖刺）不会造成伤害。不游泳时它们会下沉，并伸展它们的尖刺。守卫者在陆地上会乱跳，但仍会攻击。
-守卫者的眼睛会跟随并盯住附近的任何玩家，并且始终直视他们正在攻击的人。守卫者的眼睛会在隐身药水的效果保护下一直盯着一个完全没有护甲的玩家，但实际上它们是完全可见的而且不会攻击玩家。守卫者却会在同样药水的作用下攻击鱿鱼。
-当离开水时，守卫者会扑腾着愤怒地向玩家发出吱吱声。它们在空气中能呼吸，因此可以在陆地上存活，它们经常在陆地上伸展它们的尖刺。当它们不在水里游泳时，它们会快速回到附近的水源中。</p>
-<p>远古守卫者</p>
-<p>远古守卫者（Elder Guardian）是一种只生成在海底遗迹的敌对生物。 它是守卫者的更强变种。
-远古守卫者会在海底遗迹生成3只。它们会对附近的玩家施加挖掘疲劳III的效果，这是为了保护遗迹的宝藏（金块和湿海绵）不被开采，以及防止玩家通过简单的挖掘墙壁而进入遗迹。远古守卫者会发出光束伤害玩家。此外，远古守卫者可以针对和伤害乘坐船的玩家。但是一旦玩家超出范围，它的光束会脱离玩家，不会对玩家造成任何伤害。</p>
-<p>末影螨</p>
-<p>末影螨（Endermite）是一个方块高生物。在末影人瞬移时有0.0231%的几率出现。也有极低的几率，末影人会在某处站立不动，身体持续红色（即受伤掉血）并发出受伤时的声音，死亡后在原地即生成一只末影螨。玩家在投掷末影珍珠时也有5%的几率生成末影螨，末影螨在灵魂沙上会窒息。
-*其实末影螨长得很像砍掉头和尾的蠹虫（其早期模型其实就是紫色的蠹虫），但是它浑身紫色，还有粒子效果。</p>
-<p>蠹虫</p>
-<p>蠹虫（Silverfish），又称银鱼、衣鱼，其外形是一只节肢动物，它们可以躲在石质方块里，例如:石砖、鹅卵石和石头，若但蠹虫钻进去后，由于该方块会被替换为97号方块（石头怪物蛋），因此需要3秒的时间（和挖除沙质方块的时间一样）才可以挖掉或破坏。
-当他躲藏的方块是被玩家摧毁时，蠹虫会从方块里跳出来，对摧毁方块的玩家发动攻击；但若方块是被炸毁的蠹虫会死在里面。蠹虫不会直接伤害玩家，除非蠹虫被玩家激怒（如打它，或毁了他的藏身方块），但他们会成群攻击玩家，并能推动玩家。当有玩家攻击蠹虫时，附近的蠹虫或躲在方块内的蠹虫会全部被激怒，并朝着玩家攻击。
-另外，蠹虫刷怪笼可以在地牢里找到。</p>
-<p>杀手兔</p>
-<p>杀手兔（Killer Bunny）是Java版独有的兔子变种，对任何玩家都敌对。杀手兔只能通过命令/summon rabbit ~ ~ ~ [RabbitType:99]生成。生成后会上方会有写着“The Killer Bunny”的名称栏。
-如果杀手兔在16个方块半径内发现玩家，它会迅速跳向玩家，其速度远超普通的兔子。它和蜘蛛的移动方式有些相似。一旦它到达近处就会冲向玩家，在普通造成8点伤害。如果玩家攻击杀手兔，它会暂时跑开，不久又会再次冲向玩家。杀手兔免疫荆棘附魔。
-如果寻找不到玩家，杀手兔会积极地搜寻和攻击狐狸和狼，包括驯服的狼。那些狼也会反过来攻击杀手兔。
-尽管杀手兔具有攻击性，但它不会在和平模式下消失。此时它仍会攻击狼和驯服的狼，并尝试攻击玩家，但无法对玩家造成伤害（类似于小型史莱姆）。</p>
-<p>唤魔者</p>
-<p>唤魔者（Evoker）属于灾厄村民（刌民）的一种，在林地府邸生成时生成，他们不是以一组而是以一只的形式在特定的房间生成。他们在最初生成后不会再次生成，所以每个世界只有有限数量的唤魔者。在林地府邸生成的唤魔者不会自然消失。
-唤魔者会攻击16个方块内的玩家、村民和铁傀儡。当不在攻击状态时，唤魔者会尝试避开玩家，直到再一次开始攻击。唤魔者有两种攻击方式：尖牙攻击和召唤恼鬼。攻击时，唤魔者更倾向于用尖牙攻击，并且可能紧接着召唤恼鬼。
-在发动尖牙攻击前，唤魔者会冒出淡紫色的烟雾，并发出喇叭一样的声音作为警告。一些尖牙从地上冒出，然后突然合上并消失。不是刌民‎‎的生物会受到6伤害，无视盔甲、附魔和难度。其他唤魔者和卫道士不会受到伤害。尖牙会生成在不低于攻击者的脚，不高于攻击者的脚上方一个方块的位置。尖牙会尝试在这两者之间的不透明方块上生成，但当这个方块被固体方块挡住时会生成失败。实际上，这意味着它无法生成在深坑里或高墙顶。但是，当唤魔者在底下而目标在上面时，它会走上楼梯，反之亦然。此外，这也意味着尖牙不会生成在透明的固体方块（例如玻璃）上。这种攻击有两种形式：进攻式和防御式。唤魔者会在目标在3个方块之外时使用进攻式，而当目标十分靠近时会使用防御式。
-在召唤恼鬼前，唤魔者会冒出白色的烟雾，并发出响声作为警告。之后附近会生成2–4只恼鬼。即使上次召唤的恼鬼仍然存活，唤魔者仍会召唤新的恼鬼。</p>
-<p>恼鬼</p>
-<p>恼鬼（Vex）是一种飞行的攻击型生物，由另一种攻击型生物唤魔者在战斗时群体式地召唤出来。
-在自然情况下恼鬼只会作为唤魔者召唤术攻击的一部分被召唤出来；唤魔者释放召唤术时会出现白烟并发出高音喇叭般的声音。每次召唤会在唤魔者附近出现2-4只恼鬼。无论上一次召唤出来的恼鬼是否全部死亡，唤魔者仍会继续召唤恼鬼。
-恼鬼会飞行，并且可以不受阻挡地穿过任何方块。它们发动攻击时会变红并向它们的目标猛冲，恼鬼在攻击时会移动到玩家的身后以防止被攻击。它们不会受到火和熔岩的伤害。
-由唤魔者召唤的恼鬼会在生成后的第33秒至第108秒内受到伤害，并最终死亡。用刷怪蛋和指令生成的恼鬼不会出现这种情况。</p>
-<p>卫道士</p>
-<p>卫道士（Vindicator）属于灾厄村民（刌民）的一种，在林地府邸生成的过程中，在一些特定的房间里生成。有些房间有1个，有些房间有3个，有些房间会有2个，并伴有1个唤魔者。他们一开始生成之后就不会再重生，所以每个世界中的卫道士的数量有限。在林地府邸里生成的卫道士不会自然消失。一些生成的卫道士会持有附魔的铁斧，这取决于设置的难度，随着难度的增加，机率会上升。.
-卫道士只会在被玩家杀死的时候掉落物品。 他们将会掉落0-1个绿宝石，随着每个等级的掠夺附魔增加最多为1的数量。它们也有8.5%的机率掉落它们的铁斧，随着每个等级的掠夺附魔增加1%。
-卫道士和玩家及村民敌对。卫道士将会举起主手，拿着铁斧并试图攻击它们。当卫道士在追逐他们的目标时，他们将会冲向他们。当卫道士没有在攻击时，它们的手里不会显示它们的铁斧。</p>
-<p>掠夺者</p>
-<p>掠夺者（Pillager）是一种装备弩的灾厄村民‎‎。
-掠夺者会生成于灾厄巡逻队。灾厄巡逻队最多生成五只掠夺者（权重55）或卫道士（权重27）在距离村庄200个方块的距离内方块亮度为0-8，天空亮度为10-15的草方块或沙子上。无论昼夜灾厄巡逻队都会自然生成，但是只会在5个游戏日（1小时20分钟）之后生成。
-掠夺者可自然生成于掠夺者前哨站内或其周围。也可以作为袭击的一部分生成。袭击是灾厄村民入侵村庄攻击村民的事件。</p>
-<p>幻术师</p>
-<p>幻术师（Illusioner）属于灾厄村民（刌民）的一种，会给予玩家20秒的失明效果，但这只会在幻术师第一次遇到玩家时发生。之后，它们会用弓向玩家射箭。
-幻术师可以生成3个和自己一模一样的幻影。在生成幻影前，幻术师会先给予玩家失明效果。所有幻影都具有同样的射击动画，但只有真正的幻术师才可以射箭或受到伤害。
-幻影还可以像恼鬼一样穿过墙壁。所有幻影在刌民的隐身状态效果结束后立即消散。若幻术师通过其它途径获得隐身效果，仍然会生成幻影，但幻影通常会直接附在幻术师本人身上。
-当被玩家杀死时，幻术师有8.5%的几率掉落它们的弓。如果使用带有抢夺附魔的武器杀死幻术师，弓的掉落几率为抢夺I的9.5%、抢夺II的10.5%以及抢夺III的11.5%。它们掉落的弓通常有一定程度的破损。
-幻术师没有对应刷怪蛋。只能通过/summon illusioner命令生成。</p>
-<p>劫掠兽</p>
-<p>劫掠兽（Ravager）是Minecraft1.14版本中是在村庄袭击中生成的巨型敌对生物。生命值100，攻击力：7攻击普通：12攻击，困难：18攻击。会在村庄袭击中第3波出现。
-劫掠兽与Java版中32个方块或基岩版中16个方块以内的玩家、铁傀儡、村民/成年村民‌‌和流浪商人‌‌敌对。它们用头撞击敌人进行攻击，可造成12（× 6）伤害和极高的击退（甚至玩家持有盾牌时）。它们冲撞时会摧毁沿途的一些方块。
-死亡后，劫掠兽掉落1个鞍，劫掠兽也会掉落除Boss生物掉落的经验外最多的经验。</p>
-<p>疣猪兽
-疣猪兽（Hoglin）是一种生成在下界的绯红森林的攻击型生物。它们是唯 一可繁殖的攻击型生物。即使在和平模式中，疣猪兽也不会消失。疣猪兽可以通过绯红菌繁殖，成功后玩家将获得1-7点经验。
-疣猪兽会攻击视线内的玩家。成年疣猪兽能够像铁傀儡一样将玩家抛向空中，幼年疣猪兽攻击力稍低且无法抛起玩家，且被攻击时会逃跑。
-疣猪兽会远离诡异菌、下界传送门方块7格。在Java版中，疣猪兽也会远离诡异菌盆栽和重生锚。与劫掠兽类似，疣猪兽拥有极长的击退距离和很高的击退抗性。
-当猪灵攻击疣猪兽时，成年疣猪兽会反击。然而，如果在疣猪兽32格范围内，成年猪灵的数量比成年疣猪兽多，它们会尝试避开猪灵。它们不会主动攻击其他生物。
-疣猪兽不会游泳，并且会溺死。幼年疣猪兽们会互相追逐嬉戏。疣猪兽虽然是下界生物，但并不免疫火焰造成的伤害。疣猪兽在主世界或末路之地中停留超过15秒（300游戏刻）后会转化为僵尸疣猪兽。</p>
-<p>僵尸疣猪兽</p>
-<p>僵尸疣猪兽（Zoglin）是由疣猪兽被带到主世界转化后的敌对型亡灵生物。它们会攻击与其对视的除苦力怕和僵尸疣猪兽以外的生物。它们甚至会攻击盔甲架，即使盔甲架不会被破坏。当成年僵尸疣猪兽攻击时，它会把目标抛向空中，即使他们用盾牌挡住攻击。幼年僵尸疣猪兽也会攻击，但不会将实体抛向空中。
-与正常的疣猪兽不同，僵尸疣猪兽不能繁殖，不会躲避诡异菌。它们也不会远离疣猪兽所排斥的方块。
-僵尸疣猪兽会导致附近的猪灵逃跑（类似于僵尸猪灵）。不像幼年疣猪兽，幼年僵尸疣猪兽会攻击幼年猪灵及其变种。僵尸疣猪兽不会游泳，但僵尸疣猪兽免疫火焰伤害。</p>
-<p>猪灵蛮兵</p>
-<p>猪灵蛮兵（Piglin Brute）是守卫堡垒遗迹的敌对型猪灵变种。
-猪灵蛮兵只会随堡垒遗迹的生成而生成。类似于远古守卫者和潜影贝，它们被杀死后并不会再生成新的个体。
-猪灵蛮兵生成时手里总是拿着金斧。类似于卫道士，它们生成时不会穿戴盔甲，也不会捡起任何盔甲来装备自己。
-猪灵蛮兵会主动攻击距离16个方块以内的玩家、凋灵骷髅和凋灵，且不会被金质物品吸引。
-猪灵蛮兵不会主动攻击铁傀儡，但如果附近的猪灵或猪灵蛮兵遭到铁傀儡攻击则会进行反击。
-防御型生物编辑 语音
-防御型生物可以对其他生物直接造成伤害，但它们并不具有主动攻击性。
-游戏中的防御型生物仅有河豚一种。</p>
-<p>河豚</p>
-<p>河豚（Pufferfish）是生活在海洋中的防御型生物，河豚在1.13版之前只有物品形态，它们的物品形态则是一种剧毒食品和药水原料。其物品形态既可以直接食用（不过食用后会出现饥饿、中毒、反胃三种状况），也可以酿成水肺药水。它可以通过钓鱼或捕捉其生物形态获得。
-河豚倾向于独自游动，且能游上瀑布。河豚还会躲进珊瑚或珊瑚扇并不停快速转动，直至离开；它们在海豚或者盔甲架接近时也会膨胀起来。然而在基岩版，大多数敌对生物接近时河豚也会膨胀。
-玩家可以对一条河豚使用水桶来装鱼，使玩家获得一个河豚桶。河豚桶里的河豚不会自然消失。对着方块使用河豚桶会释放桶中的河豚和水。基岩版中，也可以使用空桶来装河豚。
-中立型生物编辑 语音
-中立型生物是不会主动攻击玩家，在被攻击或被激怒后才会攻击玩家的生物。</p>
-<p>蜘蛛</p>
-<p>蜘蛛（Spider）的外型与现实中的蜘蛛类似，只是他全身都是方的。
-在亮度等级小于等于11时，蜘蛛与玩家和铁傀儡敌对；否则它们不会攻击，除非玩家首先攻击它们。正在追逐玩家的蜘蛛即使进入到光线充足的地方也会继续追逐玩家。如果敌对状态的蜘蛛受到其他来源的伤害，例如摔落，则会重置敌对性，恢复中立。
-蜘蛛可以爬上墙和其他的障碍物。如果蜘蛛找不到一条追踪玩家的理想路径（当玩家走向高处或者在墙的顶端），它会尽可能地靠近玩家，并会垂直攀爬，直到到达墙的顶端（即使蜘蛛此时已经丧失攻击性）。此外，如果蜘蛛丧失了攻击性，它会继续盲目地向前爬2秒钟。此时的蜘蛛会攀爬任何挡在它前面的墙。如果蜘蛛试图穿过世界边界，它将开始攀爬世界边界。
-如果在探测范围之外用箭从远处射击，蜘蛛将转向并沿箭的方向前进，基本上朝向玩家。如果玩家离开，蜘蛛仍会沿着相同的路径行进，除非玩家进入探测范围，然后蜘蛛会改变方向并进行攻击。
-尽管它们本身没有毒性，但蜘蛛不受中毒效果的影响。</p>
-<p>洞穴蜘蛛</p>
-<p>洞穴蜘蛛（Cave Spider）是我的世界游戏中的第二种蜘蛛，且只会在废弃矿井中出没，因为洞穴蜘蛛不会自然的生成，只能从废弃矿坑的刷怪笼生成。洞穴蜘蛛有蓝色的身体，且被攻击后会中毒。洞穴蜘蛛的体型比蜘蛛小，高度约为一般蜘蛛的一半。
-洞穴蜘蛛在当光线不足时（亮度等级低于9）具有攻击性；在光线充足（亮度等级大于等于9）下恢复平静（变回中立）。它们不受蜘蛛网或中毒效果的影响。在基岩版中可生成蜘蛛骑士。</p>
-<p>蜜蜂</p>
-<p>蜜蜂（Bee）是生活在蜂巢或蜂箱的中立型生物，会在被激怒时成群结队地蜇玩家，使其中毒。
-在白天，蜜蜂们会陆续离开它们的巢。它们会在巢的周围飞行，且会受到花朵的吸引。蜜蜂会在花朵上旋转数圈以采集花粉。花粉采集完成后，蜜蜂尾部的材质会看起来沾满花粉，同时蜜蜂身上会产生花粉颗粒。
-如果蜂巢被破坏，或一只蜜蜂个体被攻击，此时附近所有的蜜蜂都会被激怒。蜂巢被破坏时，其中所有的蜜蜂都会以被激怒的状态释出。若使用带有精准采集魔咒的工具采集蜂巢，巢外的蜜蜂仍会被激怒‌‌，但该巢内的蜜蜂会随之被采下并保持中立状态，即使蜂巢被放下也是如此。
-蜜蜂被激怒时会成群结队地涌向玩家并展开攻击。被激怒的蜜蜂，它们的眼睛会变成红色。从蜂巢或蜂箱中收集蜂蜜瓶或蜜脾会使其中的蜜蜂出巢攻击玩家，但这可以通过在该巢正下方放置营火或是在蜂巢下方的方块上点火来避免。在和平难度下蜜蜂不会攻击玩家。
-在蜜蜂攻击玩家后，玩家会中毒。蜜蜂在成功攻击后会失去它的螫针，此后将无法攻击玩家。这些失去螫针的蜜蜂会在50至60秒内死去。
-蜜蜂会跟随手持花的玩家。如果玩家站着不动，跟随的蜜蜂会飞到该玩家身边，然后面对该玩家在地上停驻，直到玩家再次移动。
-如果对蜜蜂使用花，它们会进入繁殖模式并结对交配，生出一只幼年蜜蜂，并给予玩家1-7经验。对幼年蜜蜂使用花可以加速其成长。</p>
-<p>末影人</p>
-<p>末影人（Enderman），又称小黑，是一种长得很高（3格高），全身灰黑色，眼睛发出紫光，身体附近有紫色雪片缠绕的长手长腿的人型生物。末影人能高速移动，看起来像瞬移，也可以瞬移过一堵墙（有两堵墙或更多不可以），一但瞬移时碰到水会扣血，并不时拾起附近方块（有些他不能捡），试图观察末影人的眼会遭到末影人的攻击，头上戴着南瓜的时看他不会被攻击。 ※南瓜可当作头盔。 传言末影人是作者用美国都市传说里的slender man来制造出来的。末影人碰到远程武器，像箭、雪球、恶魂的火球、鸡蛋等会瞬移走。
-特别之处，当玩家直视他或任何一个生物打到他时（你不用希望骷髅用箭射他），就会被激怒，拿起附近方块会对玩家作出攻击。因此末影人受关注的程度仅次于爬行者，且因具有特殊能力，已被外界评论为:瞬间移动、会拿起方块的能力、会偷东西的生物
-末影人全身漆黑，有修长的四肢以及纤细的身体。会发光的紫色双眼，身体会发出与紫色雪片效果。当对生物对他作出攻击或玩家看他腿的上面时，他会张开嘴并晃动身体，同时会发出不同的声音使玩家恐惧，当它们瞬移时，会出现于在玩家周围不同地方。
-末影人会在主世界及末地在光度7以下生成 ，当末影人触碰到水或者雨的时候会受到伤害并瞬移到安全的地方（没雨或水的地方，包括你的房子或地底）。白天时未被激怒的末影人会拿着方块乱走。</p>
-<p>猪灵</p>
-<p>猪灵（Piglin）是1.16版新增的一种自然生成于下界的中立型生物。
-成年猪灵在生成时会持有金剑或弩，有时会装备金质盔甲；幼年猪灵在生成时不会携带任何装备。即使在和平模式中，猪灵也不会消失。
-成年猪灵默认与玩家敌对。但如果玩家装备了金质盔甲，它们就会对该玩家表现为中立状态。
-无论玩家是否穿着金质盔甲，如果猪灵受到玩家攻击，或者看到、听到玩家挖掘金块、金矿石、下界金矿石或镶金黑石，打开或破坏箱子、陷阱箱、运输矿车‌、木桶、潜影盒或末影箱（无论其中装有何种物品），它们就会被激怒，除非它们正在进行以物易物或猎杀其他生物。被激怒后，猪灵会保持敌对状态30秒。
-若一只猪灵蛮兵‌受到攻击，那么附近其他猪灵也会被激怒。
-成年猪灵会主动攻击16格内的凋灵骷髅和凋灵，它们有时也会攻击成年疣猪兽，但当它们狩猎时数量没有成年疣猪兽多则会与疣猪兽保持至少六个方块的距离。在Java版中，猪灵不会攻击幼年疣猪兽。</p>
-<p>僵尸猪灵</p>
-<p>僵尸猪灵（Zombified Piglin），1.16前称僵尸猪人（Zombie Pigman）是生成在下界的中立生物。他们和僵尸是类似的，只是颜色是粉红色，而明显与僵尸不同的是，他们手上有拿东西，拿的是黄金剑，有时会拿附魔黄金剑。他的装备有时会掉落。
-僵尸猪灵的外形与僵尸相似，因为其为同一个模型，但它的颜色是粉红色，和猪一样，除此之外，还有绿、白相间的腐烂的肉，手上持有金剑，但有时看起来是绿色的，缠着腰布也能看到一部分骨头。
-在万圣节时，有一定的机率会出现戴着南瓜的僵尸猪灵。
-僵尸猪灵会出现于下界，一般以4-10只成群出现，会远离地狱幽灵和悬崖。若玩家攻击一只僵尸猪灵，也会激怒受攻击的僵尸猪灵32格外的僵尸猪灵，导致其他僵尸猪灵去攻击玩家。当太阳出来时，僵尸猪灵和普通的僵尸、骷髅一样会着火，但是火无法杀死僵尸猪灵。
-僵尸猪灵不怕火烧，不会着火也不会受到任何火焰伤害。此外僵尸猪灵能在岩浆内游泳，并且在熔岩内游泳很快，有时甚至比玩家在水里移动的速度还快。僵尸猪灵有穿着装甲。还有幼年僵尸猪灵，但是只能在使用僵尸猪灵重生蛋很少几率地生成。
-猪被雷劈后会成为僵尸猪灵，猪灵或猪灵蛮兵‌在主世界停留超过15秒后，也会转化成僵尸猪灵。</p>
-<p>海豚</p>
-<p>海豚（Dolphin）是生活在海洋里的中立生物。
-海豚可以在普通、寒带和温带海洋以及它们的深海变种中找到。
-海豚被杀死后会掉落0-1条鳕鱼，每1级抢夺附魔会增加1条额外的鱼的掉落几率。
-海豚通常会结群游泳，偶尔会跳出水面，它们有在水体间来回跳跃的能力。它们也会试图追逐在船中的玩家。
-海豚会被掉落的物品所吸引，撞开它们并进行追逐。如果玩家攻击一条海豚，则整个群体都会被激怒。
-用生鳕鱼喂食海豚能根据喂食数量增加它们对你的“信任”，这会使它们更多地与玩家互动。 如果你在它们附近游泳,你会游得更快。
-甚至在玩家用游泳模式靠近时，它们会试图环绕在玩家身边。</p>
-<p>北极熊</p>
-<p>北极熊（Polar Bear）生命：30
-北极熊为1.10更新生物。
-北极熊会在冰原、雪山和冰刺平原生物群系生成。它们能以被动、中立或敌对的状态出现。幼熊崽是被动的；成年北极熊是中立的，但它们在被攻击后会变成敌对状态。如果幼熊被攻击或玩家离他太近，在以幼熊为中心41×41×21格的范围内所有成年北极熊都会变成敌对状态。北极熊的游泳速度比玩家的快，所以如果它们攻击的话，玩家将会很难摆脱。北极熊能被栓绳牵引。
-杀死北极熊时，北极熊会有3⁄4的几率掉落1-2个生鱼，1⁄4的几率掉落1-2个生鲑鱼。</p>
-<p>熊猫</p>
-<p>熊猫（Panda）以1-2为一组生成在丛林生物群系中的竹林中。类似于其他的被动生物，熊猫会生成在上方至少有两个方块空间的草方块上且光照等级为9或更高，但是比其他的丛林生物更稀有。熊猫的个性是随机的，其中普通熊猫的最为常见，棕色的最为罕见。 [15]
-在基岩版，熊猫可以在丛林生物群系中亮度等级为7或高于7的地方生成，并且在竹林生物群系中有着更高的生成几率。5%的熊猫将会作为幼崽生成。熊猫在被玩家攻击后会攻击玩家一次，类似于羊驼。
-被动型生物编辑 语音
-被动型生物也称友善型生物、和平型生物，它们不会攻击玩家，即使被玩家攻击， [16]  但是有些被动型生物（如狐狸、豹猫）会主动攻击其他生物。</p>
-<p>蝙蝠</p>
-<p>蝙蝠（Bat）是一种生成亮度和怪物一样（小于或等于7）的被动型生物。它们经常会发出吱吱的叫声，但不会做会影响游戏的事情，杀死后不会掉落东西。</p>
-<p>鸡</p>
-<p>鸡（Chicken）与现实中的鸡相同，在1.4.2之前用小麦喂饲料，1.4.2之后则改用种子。鸡可以下蛋，扔出鸡蛋后有几率生成一只鸡。杀死后会有羽毛、生鸡肉（被烧死、火焰附加的剑杀死和火矢弓射死的掉落烤鸡肉）。</p>
-<p>牛和哞菇</p>
-<p>牛（Cow）与现实中的牛相同，哞菇（Mooshroom）是牛的一种。玩家可从牛身上获得牛奶（使用铁桶，可无限获得），杀死可获得生牛肉（烧死的有牛排），有机率掉皮革，哞菇可利用剪刀获得红蘑菇（剪了以后会变成普通的牛），也可使用碗获得蘑菇汤（可以无限获得蘑菇汤）。用小麦进行喂养。
-棕色哞菇不能自然生成。当红色哞菇被闪电击中时，会生成棕色哞菇。‌‌相反，被闪电再次劈中时会变重新变为红色哞菇。
-猪
-猪（Pig）是我的世界游戏中的一种动物，一般可以在有草地的地形找到。在它死后，它会掉生猪肉，食用生猪肉的可以恢复少量饱食度，但用火攻杀死或熔炉烹饪后，会获得烤猪肉能补充更多饱食度。带上鞍后可供玩家坐骑，用胡萝卜钓竿让他前进（在水里是没用的），当玩家骑猪跳下悬崖并使猪受到两颗心的伤害时，会解锁“当猪飞的时候”成就。用土豆或胡萝卜进行喂养。</p>
-<p>羊</p>
-<p>羊（Sheep）与现实中的羊相同。会随意啃掉地上的草皮。玩家杀羊或用剪刀获得羊毛。（用剪刀剪的较多）用小麦吸引或给两只羊吃会生小羊。向羊用颜料身上的羊毛会变色，且永远不变。 （1.2版本后共有16种颜色），当被剪掉羊毛的羊吃草时，羊毛会重新长出来。
-当用名称为“jeb_”的命名牌对着羊使用时，羊毛会一直变色，但剪羊毛时掉落原本的颜色。用小麦进行喂养。</p>
-<p>兔子</p>
-<p>兔子（Rabbit）会随机地向四周跳动，杀死可以获得兔子腿、兔肉，用胡萝卜或蒲公英喂养。所有兔子都会躲避8个方块内的玩家，也会躲闪4个方块内的敌对生物（除了史莱姆、岩浆怪与恶魂）。它们也会躲避10个方块内的狼。</p>
-<p>村民</p>
-<p>村民（Villager）即NPC。村民会住在特定地区，其特色为村民有可用绿宝石换一些东西【在1.3.1以前不可以】，服装决定职业。杀死村民不会掉落任何东西，尽管这个行为会让铁傀儡来攻击玩家，但其他村民依然无动于衷。村民被僵尸杀死后会变成僵尸，所以不要在晚上去村庄附近游荡，很容易让村民被僵尸杀死。
-绿袍村民在1.11前不会生成，1.11把绿袍村民加回来了，在1.12也会生成。（注：绿袍村民不能进行交易——他是傻子）</p>
-<p>豹猫</p>
-<p>豹猫（Ocelot）是一种丛林中罕见的被动型生物。豹猫会攻击鸡和幼年海龟。在发动攻击之前，它们会先以“潜行”的姿态接近猎物。它们甚至能隔着栅栏或门杀死猎物。爬行者和幻翼也会远离豹猫。
-给信任玩家的豹猫喂食生鲑鱼或生鳕鱼可以使它们繁殖。繁殖会生出一只继承父母样子的小豹猫。</p>
-<p>僵尸马</p>
-<p>僵尸马（Zombie Horse）与骷髅马一样，都是马的变种。僵尸马属于没有使用到游戏内的生物，不会自然生成并且不能生成于游戏中，但可以使用命令启用，或使用刷怪蛋生成。
-僵尸马无法被正常驯服；而且完全被动，不具攻击性。
-僵尸马在没有第三方软件的帮助下，不能装备任何东西。僵尸马会发出不明的呻吟声。</p>
-<p>骷髅马</p>
-<p>骷髅马（Skeleton Horse）有几率在雷暴天气中生成。如果没有被激活成骷髅骑兵，骷髅陷阱马会在15分钟后消失。
-骷髅马生成之后就是驯服状态，与骷髅一同行动，骷髅马是完全被动并且不具攻击性。骷髅马会发出金属声响。
-骷髅马生成之后可被驯服并乘骑，且不需要鞍，但不能装备马铠。</p>
-<p>海龟</p>
-<p>海龟（Turtle）是一种水陆两栖的被动型生物，生成在主世界中的温暖海滩上，有时以多达5只的小群体生成。
-海龟有以下掉落物：在死亡时掉落0-2条海草，被玩家或驯服的狼杀死时会掉落1-3经验。
-海龟会漫无目的地在水中游动，在陆地上缓步漫游。在陆地上的它们通常会试图移动至最近的水源地。它们会跟随手持海草的玩家，被攻击时会逃跑。
-小海龟会被以下生物攻击：僵尸、骷髅、野生的豹猫和野生的狼。所有三种僵尸（包括僵尸猪灵）会踩踏并破坏海龟蛋。
-若给两只海龟喂食海草，它们会相互靠拢（给予玩家少许经验）。其中的一只海龟在沙地上挖洞，几秒后在 其上产下海龟蛋。这需要大约6分钟孵化。
-给小海龟喂食海草可略微加快其生长速度。每次使用会减少10%的生长所需时间。</p>
-<p>鱿鱼</p>
-<p>鱿鱼（Squid），又名乌贼、章鱼，与现实中的鱿鱼相同，死后掉下墨囊，受到玩家攻击时，如果一刀没砍死，会喷射墨水，并加速逃离。
-它们离开水后无法存活。如果离开了水，它们会静止在原地，最后窒息而死。</p>
-<p>鲑鱼</p>
-<p>鲑鱼（Salmon）生成于冻洋与寒冷的海洋，但不同于另外两种鱼，鲑鱼还能生成于河流中。被杀死时会掉落物品形式的鲑鱼。
-鲑鱼倾向于成群结队地游泳。每个鱼群最多有6条鲑鱼。
-鲑鱼能够跃上瀑布。
-它们离开水后无法存活。如果离开了水，它们会扑腾一段时间，最后窒息而死。</p>
-<p>鳕鱼</p>
-<p>鳕鱼（Cod）生成于寒冷、普通与温和的海洋生物群系中的被动生物，被杀死时会掉落物品形式的鳕鱼。
-鳕鱼倾向于成群结队地游泳。每个鱼群最多有9条鳕鱼。
-它们离开水后无法存活。如果离开了水，它们会扑腾一段时间，最后窒息而死。</p>
-<p>热带鱼</p>
-<p>热带鱼（Tropical Fish）是生成于温和与温暖的海洋生物群系中的被动型生物。热带鱼一共有3584种，可以用桶捕捉，用于美化家里的水族箱。死后掉落物品形式的热带鱼。</p>
-<p>流浪商人</p>
-<p>流浪商人（Wandering Trader）是一种可以在世界各处发现的，类似村民的被动型NPC生物。
-流浪商人会随机地在世界中或是周期性地在村庄的聚集地生成。流浪商人生成时会牵着一两只一同生成的行商羊驼。
-在任何时候世界中只能有一个自然生成的流浪商人。在世界创建的24000刻（现实中的20分钟）后游戏将开始尝试生成流浪商人。如果当前世界上不存在流浪商人，游戏将在这之后的每24000刻在离玩家半径48方块的范围内尝试生成新的流浪商人。初次尝试将有2.5%的几率成功。如果失败了则会在下次尝试中以5%的几率生成。如果再次失败，则之后的尝试都将以7.5%的最高几率生成。平均下来，大约14.325个游戏日会生成一个流浪商人，在48000或72000刻后流浪商人连同他的羊驼将消失并重置这个循环（如果行商羊驼没有被流浪商人牵着，那么行商羊驼将不会一起消失）。
-在基岩版中，当尝试用刷怪蛋或/summon命令生成流浪商人时，羊驼也会一并生成。
-如果/mobevent minecraft:wandering_trader设为false，那么流浪商人永远不会生成。</p>
-<p>狐狸</p>
-<p>狐狸（Fox）是夜间生物，在白天睡觉，晚上活动（但如果有人靠近它们，它们会醒来并迅速逃跑）。它们的速度很快，和豹猫的速度差不多，会逃离附近的任何玩家和狼。然而玩家潜行靠近狐狸时狐狸不会逃离。
-狐狸完全不会受到甜浆果丛的影响，在其中移动时不会受到伤害和减速作用。 [19]
-狐狸会主动攻击鸡、兔子、鲑鱼、鳕鱼、热带鱼和陆地上的小海龟，也会受到狼、北极熊和杀手兔的主动攻击。</p>
-<p>炽足兽</p>
-<p>炽足兽（Strider）是下界生成的被动型生物。幼年炽足兽有10%的几率会生成在成年炽足兽头上。僵尸猪灵有1/30的几率会骑在炽足兽头上，这种情况下炽足兽会装备鞍，且僵尸猪灵会手持诡异菌钓竿‌。
-不像其他生物，炽足兽可在熔岩中行走。炽足兽也可以在其他生物身上行走，就好像它们是固体方块。若炽足兽从高空摔落到生物上，则会像落到方块上一样受到摔落伤害。
-炽足兽免疫火焰伤害，但接触水或雨时会受到伤害，并且在水中会下沉。
-离开熔岩的炽足兽会打寒颤并且颜色发紫，但不会因此受到伤害。它们在熔岩外移动速度会变慢。
-玩家可使用鞍骑乘成年炽足兽，并且可使用拴绳牵引。类似用胡萝卜钓竿控制猪的前进方向一样，炽足兽可使用诡异菌钓竿来控制方向。炽足兽可通过喂食诡异菌繁殖，同时给予玩家1-7经验值。
-驯服型生物编辑 语音
-驯服型生物是可以被玩家驯服并饲养的生物。</p>
-<p>猫</p>
-<p>猫（Cat）未驯服时为被动型，有九种毛色，最常见的是姜黄猫，西服猫则不太常见，暹罗猫相当罕见。
-1.14前猫的毛色
-1.14前猫的毛色(3张)
-猫会跟随玩家并在距离太远时瞬移到玩家身边。
-它们也有随机攻击鸡的倾向。
-爬行者和幻翼会避免与猫相遇，所以猫是玩家防御爬行者和幻翼的一大利器（即使爬行者和幻翼已经开始追逐玩家）。
-猫会受到跌落伤害，但是它的摔落抗性比一般生物高很多。而且也永远不会攻击任何攻击性生物，只会攻击兔子。
-猫会试图占据床、箱子和熔炉。</p>
-<p>狼</p>
-<p>狼（Wolf）未驯服时为中立型，玩家一旦伤害狼，不仅被攻击的狼会攻击玩家，附近的狼的也会集体攻击玩家，既是一个很难缠的对手，也是一个可驯服的生物。喂骨头会被驯服（1/3概率），喂两只狼每只一块腐肉或生物的肉就会生小狼。狼它们会主动攻击看到的羊，兔子。 如果你对敌人发起攻击，被驯服的狼也会攻击。
-可通过狼的尾巴看狼的血量，尾巴低血量低，当尾巴100度时，为满血。</p>
-<p>马</p>
-<p>马（Horse）未驯服时为被动型，于版本1.6时加入游戏，玩家可借由喂食食物跟骑乘来驯服它们，装备鞍可供玩家骑乘，装备马铠可以增强防御力。为我的世界中最快的交通工具。</p>
-<p>驴</p>
-<p>驴（Donkey）未驯服时为被动型，于1.8快照出现的可驯服生物。借由金萝卜，甜菜根以及苹果类驯服。装备鞍可供玩家骑乘，也可以在身上装备箱子存放物品。</p>
-<p>骡子</p>
-<p>骡子（Mule）未驯服时为被动型，可以由马和驴杂交得到，骡子没有繁殖能力。
-驯服方式与马、驴相同，装备鞍可供玩家骑乘，也可以在骡子身上装备箱子存放物品。</p>
-<p>羊驼</p>
-<p>羊驼（Llama）未驯服时为中立型。当它们被激怒时会通过吐口水来攻击，每次会造成半颗心的伤害，无论在什么难易度下，攻击力都保持为1（被攻击而反击时）。 [20]
-羊驼会主动攻击狼，野生的狼会避开羊驼。
-羊驼就像马一样能够被驯服。玩家可以通过对羊驼右键点击直到其出现心形来驯服它，然而，就算被驯服了，玩家也不能在骑上它们时控制它们的活动。
-不过，拴绳可以牵引羊驼，并且当拴绳出现时，邻近的羊驼将会跟随，并排成类似于沙漠旅行队的一列，一条拴绳最多可以牵引10只羊驼，包括小羊驼。
-流浪商人生成时，会牵着两只行商羊驼（Trader Llama）。如果攻击了流浪商人，行商羊驼会朝玩家吐口水。行商羊驼默认为已驯服状态，但无法繁殖。</p>
-<p>鹦鹉</p>
-<p>鹦鹉（Parrot）未驯服时为被动型，会在丛林生物群系中的草地或树叶上自然生成，通过小麦种子来驯服。被驯服的鹦鹉会缓慢飞行以跟随玩家，并且会骑在玩家的肩膀上。鹦鹉可以模仿其他生物的叫声，食用可可豆或曲奇后会直接死亡。
-合成型生物编辑 语音
-合成型生物可以由玩家自主使用方块生成。</p>
-<p>雪傀儡</p>
-<p>雪傀儡（Snow Golem）也叫雪人，看到怪物的时候就会通过扔雪球攻击。需要由玩家自行制作，也有玩家利用雪傀儡脚下会留下雪块的特点，而将雪傀儡当成“雪球生产器”般使用。制造方法：
-垂直三格高，先叠两块雪方块，最后放上南瓜或南瓜灯。
-攻击力：0
-特性：不受玩家控制，随意的走动，主动对怪物发射雪球。 走过的地面会覆盖上顶层雪，除了草原、沼泽、沙漠之类的生态系。
-在沙漠、雨林以及下界时，雪傀儡会受到伤害直至死亡。在下雨、下雪时，或者待在水中，也会受到伤害。
-当你拿着剪刀时，可以对雪傀儡进行“修剪”。修剪后的雪傀儡会返还南瓜头并且会还原出原来的样子。</p>
-<p>铁傀儡</p>
-<p>铁傀儡（Iron Golem）也叫铁巨人，通常出现村庄中。当村庄在晚上受到怪物袭击时，铁傀儡就会来防守村庄。 铁傀儡会自动攻击视野内的除了狼（无论是否被激怒）、苦力怕、闪电苦力怕、杀手兔、羊驼（除非将口水吐到了其身上）、北极熊、海豚、熊猫、蜜蜂、恶魂、疣猪兽（仅基岩版）之外的攻击型与中立型生物。 [3]
-制造方法：垂直三格高，将四个铁块摆成T字，最后在T字中央上头放上南瓜或南瓜灯。生成后总是面向南边。 每当一个村落的村民达到15人时，自动生成一只护卫村庄，每达15的倍数再增加一只。 村落中，每个新的铁人必须经过一段预备时间才会出生。 特殊生物，主动攻击爬行者以外的怪物，被玩家或其他生物攻击时反击。
-攻击力：简单模式为4-11，普通为7-21，困难为10-31
-特性：不受玩家控制，随意的走动，在村庄时会在房屋之间走出巡逻路线，不会摔伤，在水中变为被动型生物。</p>
-<p>末影龙</p>
-<p>末影龙（Ender Dragon），是我的世界的第一种BOSS级生物。一只体型庞大，会飞行而且行动快、靠撞击来攻击玩家的怪物。末影龙只会出现于末地。位于每个地图的末地里，每个地图里都只有一只末影龙，不会离开末地，当然除了被玩家杀死，是不会有另一种被杀死的方法了。但是，玩家可以用4个末影水晶摆在返回传送门的四边来复活末影龙。（在正式版1.8以上时，可以用kill @e来杀死末影龙）
-末影龙是游戏中最巨大的生物，外貌仿照末影人的材质，全身漆黑及双眼为紫色，是一条黑色和紫色眼睛的巨龙（脊椎动物），但身上也有部份灰色于脊椎及巨翼。末影龙与末影人和蜘蛛的特质相同，都是可以在黑暗中看见其眼睛。
-当玩家进入末地后，屏幕上方会有一行红条表示末影龙的血量。而当末影龙飞近末影水晶，末影水晶会发挥作用，为末影龙增加生命值。可以用远程武器射爆炸。 末影龙被杀死后，身体会缓慢上升并发光，最后引起爆炸，同时会掉落经验让玩家能升78级（12000经验值的经验球，早些的版本掉落20000的经验值）。其死亡位置的地上会做出能回到主世界的传送门，传送门上有一只可以用龙骑士BOG来再制作末影龙的龙蛋。进入传送门后游戏会显示一段文字（即终末之诗）的剧情画面。文字结束后，玩家会被传送到主世界。当然玩家可以返回末地，但不会再有末影龙，除了用BOG重制末影龙也可以使用1.6加入/summon指令生成。注意，在末地放床尝试睡觉床将会爆炸，但是这个爆炸也对末影龙可以造成大量的伤害（约十分之二），因此引出了不少快速杀死末影龙的方法。</p>
-<p>凋灵</p>
-<p>凋灵（Wither），是游戏中的一只亡灵生物，是继末影龙之后的第二只BOSS生物。 一般不会于游戏中直接生成，必须于地狱（下界）采集四个灵魂沙以及击败地狱怪物“凋灵骷髅”机率性落下的“凋灵骷髅头”三个，依照T型的摆法放置于地上，即可召唤凋灵怪。 会飞行，血量被打到一半时会有一股蓝色护盾保卫，不可飞行并只能受到近战的伤害。
-制造方法：凋灵可通过玩家制造生成。使用灵魂沙在地上摆成T形（与铁傀儡身子的摆放相同），然后在顶层的3块灵魂沙上各放一块凋灵骷髅头颅，即可生成出一只凋灵。同时，与雪傀儡和铁傀儡一样，凋灵并不能通过活塞生成。最后任意一个凋灵骷髅头颅必须手工放置，否则无论如何都不能成功生成凋灵。（和平模式中无法召唤）
-攻击力：10
-特性：凋灵生成后，会只有一半的血量，随着其血条的不断增加至满，会暂时闪烁蓝光，身子逐渐变大。在此过程中凋灵不能移动且处于无敌状态，血量补满时会造成大爆炸。
-除恶魂外，凋灵主动攻击其它所有非亡灵生物和玩家。凋灵不会主动攻击亡灵生物。在被骷髅或另外一只凋灵射中时，凋灵只会保持敌意一段时间，然后回复中立。
-凋灵的移动速度相当快。
-在发现目标后，凋灵会使用投射物凋灵之首攻击。凋灵之首可对目标施加凋零效果，抽取其生命值治疗凋灵。凋灵的三个头是独立的，即一只凋灵可以同时攻击3个目标。
-凋灵属于亡灵，即与僵尸、骷髅和僵尸猪灵一样，会被伤害喷溅药水医疗，被治疗药水伤害，受“亡灵杀手”魔咒造成的附加伤害。</p>
-<p>NPC</p>
-<p>NPC（非玩家控制角色，Non-Player Character）是一种拥有与村民相似的被动的可交互的生物。
-与其他实体不同，NPC不会自然生成，然而，它们在创造模式物品栏中有对应的刷怪蛋。NPC也可以用/summon minecraft:npc ~ ~ ~命令生成。
-NPC没有AI。既不能移动也不能被其他实体推动。它们也无法被伤害或受药水影响，也同时无法转身看向玩家。
-在版本1.16.0中,NPC可以被拥有世界管理员权限的玩家正常杀死,并可被/kill所杀死。
-右键NPC将显示界面，他们只能被拥有世界管理员权限的玩家编辑。该界面允许玩家编辑对话框、名称和外观。当玩家没有world builder权限时，它将只显示对话框和按钮。</p>
-<p>吉祥物</p>
-<p>吉祥物（Agent）是一种教育版独有生物，通常情况下它通过让玩家进行编程来控制，来实现帮助玩家学习编程的目的。吉祥物无法被击杀，且没有对应的掉落物，但吉祥物可以被移除。
-吉祥物不会自然生成，但是吉祥物能通过刷怪蛋或命令生成。通过WebSocket端执行/agent create生成。
-吉祥物免疫所有伤害，未接收到来自WebSocket端的命令时，如果脚下没有方块则会在原地上下漂浮，如果有方块则会站在方块上。
-吉祥物的名称会保持显示并且被随机赋予颜色，名字格式为：主人名称.Agent。
-吉祥物无论是否在未加载的区块中，在玩家执行/agent tp时都可以被传送回玩家所在坐标。</p>
-<p>Herobrine</p>
-<p>（又名HIM，全名：Herobrine In Minecraft）
-传言有个Mojang的员工，因为一系列原因被Notch炒了鱿鱼，因此他心怀着怨恨，决定动用黑客技术报复Notch，他选择侵入游戏。作为前员工Herobrine是我的世界游戏社群传说的一个恐怖神秘故事中的一个角色。Herobrine的来源则要归功于某个Brocast staff的直播视频：直播中出现了Herobrine（这就是最为人所知的那个Herobrine出现的视频）。虽然是个恶作剧，不过还是立刻为Herobrine聚集了大量人气。 Herobrine在这个视频的20分45秒左右出现。</p>
-<p>Herobrine</p>
-<p>但是HIM不是游戏官方的一个生物，游戏里从来没有这个材质和代码。
-也就是说，所谓的Herobrine只是一个人物模型，在游戏中根本不存在，也没有在任何版本中出现过。Notch在自己的文章中透露，Herobrine只不过是自己的一个玩笑。不过，想要找到Herobrine也不难，但是需要一个 Herobrine Mod，就可以在游戏中遇到所谓的，还可以找到他的建筑，你也可以攻击他，他的生命值只有20（根据Mods作者而定），而不是故事中所谓的无敌，他还会瞬移。但必须下载mod才能见到Herobrine建筑，或下载整合包即可。Skydoesminecraft曾在他的播客里介绍过Moty Herobrine Mod，以及以前版本中的Herobrine。在一些服务器遇见Herobrine通常会被反胃、减速、虚弱，而且很吓人，突然在面前出现，并且时带诡异的开关门声，以及类似恶魂的尖叫声。</p>
-<p>实体303</p>
-<p>实体303（Entity 303），他技术高超，又熟知《我的世界》源代码，于是便在游戏中制作了“实体303”，不断入侵在线玩家的世界。传言中实体303有4条命，每死一次便会更强，最初的303很弱，死了一次后，攻击力大幅上升，第三条命让他外形发生变化，最后条命就无敌了，遭遇他的玩家无法对抗。他还遭遇过Him，Him最后将他传送至虚空才打败了他，用了14分钟，甚是可怕。当然，这里的打斗场面全是虚构的，只是来源于一个网友制作的视频。</p>
-<p>Null</p>
-<p>Null，中文翻译零值，称号黑暗君主。是一个全身乌黑的亡灵，身体几乎不会反光，冒着浓浓的黑烟，经常拿着一把铁剑，有时候可以幻化出铁剑，附上湮灭，造成强大的破坏，弱点是鸡蛋。
-Null的中文意思就是无效，空的，零值，又被称为Entity_404（实体404），会程序无效。程序无效这个技能非常的强大，可以导致让任何攻击都对他无效，命令方块和指令都无济于事，实力略胜于Notch，但打不过实体303和Herobrine，他碰到的东西全部都会以无效化，跟Herobrine的删除能力差不多。
-Null经常跟在Herobrine身边，有时候Herobrine后面就会出现Null的影子，可以算是双重两面作战，大大提高战斗力。他们两个性格相像，只是Null比较不幸运，一个选择了坚持了自己的初心，一个却扭曲了人格（不过有时候也蛮逗的）。</p>
-<p>这些生物不再存在于当前版本的游戏中。</p>
-<p>“史蒂夫”
-已移除生物</p>
-<p>“史蒂夫”（&ldquo;Steve&rdquo;）和主角史蒂夫同名，模型不一样。早就在2010年就被废除了。掉落：线，羽毛，火药，打火石。
-黑史蒂夫
-黑史蒂夫（Black Steve）也是和“史蒂夫”一样，在2010年被删除。<br>
-拉娜
-拉娜（Rana）是我的世界中仅有一个出现的女性生物，材质有些奇特。
-猪人
-Notch在2011年4月25日提到，他可能会加入猪人（Pigman），并作为村庄的村民，后来被村民替代。
-野兽小子
-野兽小子（Beast Boy）的原型为DC漫画旗下超级英雄野兽小子，也是在2010年被删除。
-人类
-人类（Human/Monster）是我的世界（早期版本）中的敌对生物。和主角史蒂夫的材质是一样的，就是跳跃力比主视角的史蒂夫高（一层）。
-<a href="https://baike.baidu.com/item/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E6%80%AA%E7%89%A9%E5%88%97%E8%A1%A8/15418866?fr=aladdin">LINK</a></p>
-
-
-
-
-
-
-
-]]></content>
-        </item>
-        
-        <item>
-
-            <title>方块</title>
-            <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
-            <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <title>方块</title>
-            <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
-            <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <title>Getting Started</title>
-            <link>https://minspider.github.io/timeline/lorem_ipsum/</link>
-            <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-            
-            <guid>https://minspider.github.io/timeline/lorem_ipsum/</guid>
-            <description>Abstract Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit.</description>
-            <content type="html"><![CDATA[<h2 id="abstract">Abstract</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.</p>
-<p><a href="https://gohugo.io/getting-started/">LINK</a></p>
-
-            <title>方块</title>
-            <link>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</link>
-            <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-            
-
-
-            <guid>https://minspider.github.io/timeline/%E6%96%B9%E5%9D%97/</guid>
-            <description>简介 方块是Minecraft里最基本的组成单位。
-作用 固体方块和液体方块一起构成游戏内的环境，并能以各种各样的方式被收集和利用。一些方块，如泥土和砂岩是不透明的方块，然而其他方块，如玻璃和冰，是透明的或半透明的。 一些方块，如火把和荧石，能发出光亮。它们的亮度各不相同；参见该亮度值表获取更多信息。大多数不透明方块会完全挡光，但透明方块要么对光亮没有影响，要么只微弱地挡光。 几乎所有方块都会无视重力，但不包括 沙子、红沙、沙砾、铁砧、龙蛋、混凝土粉末，还有在携带版中的雪。
-方块高度 大多数固体方块有 1 米高，但某些方块（例如台阶和楼梯）有不标准的方块高度。 如果方块之间的落差小于 0.6 (3\5)，玩家无须跳跃便可以走过这个高度差。
-材质 方块表面的材质都是16×16像素的。大多数方块默认为一立方米大小，但它们能使用模型或材质包来改变。大多数方块都有静态的材质，但是水、熔岩、下界传送门、末地传送门、末地折跃门、火、海晶灯、命令方块、海晶石、和岩浆块有动画效果。通过使用材质包，玩家能够改变方块的材质和分辨率，包括决定材质是否为动态。材质包也能够使用模型来改变方块的形状或使方块等比例缩放，不过二次方长度的尺寸通常效果比较好。
-LINK</description>
-            <content type="html"><![CDATA[<h2 id="简介">简介</h2>
-<p>方块是Minecraft里最基本的组成单位。</p>
-<h2 id="作用">作用</h2>
-<p>固体方块和液体方块一起构成游戏内的环境，并能以各种各样的方式被收集和利用。一些方块，如泥土和砂岩是不透明的方块，然而其他方块，如玻璃和冰，是透明的或半透明的。
-一些方块，如火把和荧石，能发出光亮。它们的亮度各不相同；参见该亮度值表获取更多信息。大多数不透明方块会完全挡光，但透明方块要么对光亮没有影响，要么只微弱地挡光。
-几乎所有方块都会无视重力，但不包括 沙子、红沙、沙砾、铁砧、龙蛋、混凝土粉末，还有在携带版中的雪。</p>
-<h2 id="方块高度">方块高度</h2>
-<p>大多数固体方块有 1 米高，但某些方块（例如台阶和楼梯）有不标准的方块高度。
-如果方块之间的落差小于 0.6 (3\5)，玩家无须跳跃便可以走过这个高度差。</p>
-<h2 id="材质">材质</h2>
-<p>方块表面的材质都是16×16像素的。大多数方块默认为一立方米大小，但它们能使用模型或材质包来改变。大多数方块都有静态的材质，但是水、熔岩、下界传送门、末地传送门、末地折跃门、火、海晶灯、命令方块、海晶石、和岩浆块有动画效果。通过使用材质包，玩家能够改变方块的材质和分辨率，包括决定材质是否为动态。材质包也能够使用模型来改变方块的形状或使方块等比例缩放，不过二次方长度的尺寸通常效果比较好。</p>
-<p><a href="https://jingyan.baidu.com/article/456c463b284b600a58314419.html">LINK</a></p>
-
-]]></content>
-        </item>
-        
-
-
     </channel>
 </rss>
